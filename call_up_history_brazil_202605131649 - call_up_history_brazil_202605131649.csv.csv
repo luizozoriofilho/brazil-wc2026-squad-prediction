@@ -1,0 +1,424 @@
+date_call_up,month_matches,matches,num_matches,competition,national_team,coach,player_name,birth_date,player_id,player_main_position,player_first_alternative_position,player_second_alternative_position,club,minutes_played_club,minutes_played_national_team,avg_score_club,avg_score_national_team,league_tier,games_starting_xi,starter_rate,original_call_up_list,out_injury,out_personal_reason,replacement,is_currently_injured,estimated_recovery_days,sofascore_id,games_club,games_nt
+3/3/2023,01/03/2023,MAR x BRA,1,friendly,Brazil,Ramon Menezes,Mycael,12/03/2004,Mycael2004,Goalkeeper,,,Athletico-PR,630,0,731,,,0,0,x,,,,,,1128850,7,0
+3/3/2023,01/03/2023,MAR x BRA,1,friendly,Brazil,Ramon Menezes,Ederson,17/08/1993,Ederson1993,Goalkeeper,,,Manchester City,1125,0,648,,,0,0,x,,,,,,254491,13,0
+3/3/2023,01/03/2023,MAR x BRA,1,friendly,Brazil,Ramon Menezes,Weverton,13/12/1987,Weverton1987,Goalkeeper,,,Palmeiras,990,0,754,,,1,10,x,,,,,,243529,11,0
+3/3/2023,01/03/2023,MAR x BRA,1,friendly,Brazil,Ramon Menezes,Arthur,17/03/2003,Arthur2003,Full-back,,,América-MG,638,0,709,,,0,0,x,,,,,,1174761,10,0
+3/3/2023,01/03/2023,MAR x BRA,1,friendly,Brazil,Ramon Menezes,Emerson Royal,14/01/1999,EmersonRoyal1999,Full-back,,,Tottenham,674,0,694,,,1,10,x,,,,,,856123,12,0
+3/3/2023,01/03/2023,MAR x BRA,1,friendly,Brazil,Ramon Menezes,Alex Telles,15/12/1992,AlexTelles1992,Full-back,,,Sevilla,194,0,673,,,1,10,x,,,,,,312110,3,0
+3/3/2023,01/03/2023,MAR x BRA,1,friendly,Brazil,Ramon Menezes,Renan Lodi,08/04/1998,RenanLodi1998,Full-back,,,Nottingham Forest,980,0,675,,,0,0,x,,,,,,851150,12,0
+5/26/2025,01/06/2025,EQU x BRA / BRA x PAR,2,world cup qualifiers,Brazil,Carlo Ancelotti,Alexsandro Ribeiro,09/08/1999,AlexsandroRibeiro1999,Centre-back,,,Lille,630,180,713,73,,2,10,x,,,,,,1049775,7,2
+8/25/2025,01/09/2025,BRA x CHI / BOL x BRA,2,world cup qualifiers,Brazil,Carlo Ancelotti,Alexsandro Ribeiro,09/08/1999,AlexsandroRibeiro1999,Centre-back,,,Lille,225,90,677,64,,1,5,x,,,,,,1049775,7,1
+9/23/2023,01/10/2023,BRA x VEN / URU x BRA,2,world cup qualifiers,Brazil,Fernando Diniz,Bremer,18/03/1997,Bremer1997,Centre-back,,,Juventus,180,0,685,,,0,0,x,,,,,,885197,2,0
+11/6/2023,01/11/2023,COL x BRA / BRA x ARG,2,world cup qualifiers,Brazil,Fernando Diniz,Bremer,18/03/1997,Bremer1997,Centre-back,,,Juventus,270,0,75,,,0,0,x,,,,,,885197,3,0
+3/3/2023,01/03/2023,MAR x BRA,1,friendly,Brazil,Ramon Menezes,André,16/07/2001,André2001,Midfielder,,,Fluminense,482,0,725,,,0,0,x,,,,,,1035996,6,0
+3/3/2023,01/03/2023,MAR x BRA,1,friendly,Brazil,Ramon Menezes,Andrey Santos,03/05/2004,AndreySantos2004,Midfielder,,,Vasco da Gama,681,0,744,,,1,10,x,,,,,,1105779,8,0
+3/3/2023,01/03/2023,MAR x BRA,1,friendly,Brazil,Ramon Menezes,Casemiro,23/02/1992,Casemiro1992,Midfielder,,,Manchester United,1268,0,746,,,1,10,x,,,,,,122951,16,0
+3/3/2023,01/03/2023,MAR x BRA,1,friendly,Brazil,Ramon Menezes,João Gomes,12/02/2001,JoãoGomes2001,Midfielder,,,Wolverhampton,66,0,68,,,0,0,x,,,,,,1015267,3,0
+3/3/2023,01/03/2023,MAR x BRA,1,friendly,Brazil,Ramon Menezes,Lucas Paquetá,27/08/1997,LucasPaquetá1997,Midfielder,,,West Ham,761,0,687,,,1,10,x,,,,,,839981,10,0
+3/3/2023,01/03/2023,MAR x BRA,1,friendly,Brazil,Ramon Menezes,Raphael Veiga,19/06/1995,RaphaelVeiga1995,Midfielder,,,Palmeiras,778,0,769,,,0,0,x,,,,,,840020,10,0
+3/3/2023,01/03/2023,MAR x BRA,1,friendly,Brazil,Ramon Menezes,Antony,24/02/2000,Antony2000,Forward,,,Manchester United,1006,0,681,,,0,0,x,,,,,,958380,15,0
+3/3/2023,01/03/2023,MAR x BRA,1,friendly,Brazil,Ramon Menezes,Vitor Roque,28/02/2005,VitorRoque2005,Forward,,,Athletico-PR,688,0,718,,,0,0,x,,,,,,1150391,9,0
+3/3/2023,01/03/2023,MAR x BRA,1,friendly,Brazil,Ramon Menezes,Richarlison,10/05/1997,Richarlison1997,Forward,,,Tottenham,302,0,662,,,0,0,x,,,,,,840217,8,0
+3/3/2023,01/03/2023,MAR x BRA,1,friendly,Brazil,Ramon Menezes,Rodrygo,09/01/2001,Rodrygo2001,Forward,,,Real Madrid,998,0,705,,,1,10,x,,,,,,910536,17,0
+3/3/2023,01/03/2023,MAR x BRA,1,friendly,Brazil,Ramon Menezes,Rony,11/05/1995,Rony1995,Forward,,,Palmeiras,838,0,701,,,1,10,x,,,,,,835260,10,0
+3/3/2023,01/03/2023,MAR x BRA,1,friendly,Brazil,Ramon Menezes,Vinícius Júnior,12/07/2000,ViníciusJúnior2000,Forward,,,Real Madrid,1490,0,71,,,1,10,x,,,,,,868812,16,0
+5/28/2023,01/06/2023,BRA x GUI / BRA x SEN,2,friendly,Brazil,Ramon Menezes,Alisson,02/10/1992,Alisson1992,Goalkeeper,,,Liverpool,990,0,697,,,0,0,x,,,,,,243609,11,0
+5/28/2023,01/06/2023,BRA x GUI / BRA x SEN,2,friendly,Brazil,Ramon Menezes,Ederson,17/08/1993,Ederson1993,Goalkeeper,,,Manchester City,1080,180,698,605,,2,10,x,,,,,,254491,12,2
+5/28/2023,01/06/2023,BRA x GUI / BRA x SEN,2,friendly,Brazil,Ramon Menezes,Weverton,13/12/1987,Weverton1987,Goalkeeper,,,Palmeiras,1440,0,703,,,0,0,x,,,,,,243529,16,0
+5/28/2023,01/06/2023,BRA x GUI / BRA x SEN,2,friendly,Brazil,Ramon Menezes,Danilo,15/07/1991,Danilo1991,Full-back,Centre-back,,Juventus,831,0,701,,,2,10,x,,,,,,1064039,10,0
+5/28/2023,01/06/2023,BRA x GUI / BRA x SEN,2,friendly,Brazil,Ramon Menezes,Vanderson,21/06/2001,Vanderson2001,Full-back,,,Monaco,708,1,694,,,0,0,x,,,,,,1090694,8,1
+5/28/2023,01/06/2023,BRA x GUI / BRA x SEN,2,friendly,Brazil,Ramon Menezes,Alex Telles,15/12/1992,AlexTelles1992,Full-back,,,Sevilla,409,16,652,65,,0,0,x,,,,,,312110,9,1
+5/28/2023,01/06/2023,BRA x GUI / BRA x SEN,2,friendly,Brazil,Ramon Menezes,Ayrton Lucas,19/06/1997,AyrtonLucas1997,Full-back,,,Flamengo,1334,164,684,64,,2,10,x,,,,,,818473,17,2
+3/11/2024,01/03/2024,ING x BRA / ESP x BRA,2,friendly,Brazil,Dorival Júnior,Bremer,18/03/1997,Bremer1997,Centre-back,,,Juventus,1440,1,717,,,0,0,,,,x,,,885197,16,1
+5/10/2024,01/06/2024,MEX x BRA (friendly) / EUA x BRA (friendly) / BRA x CRC / PAR x BRA / BRA x COL / URU x BRA,6,continental tournament,Brazil,Dorival Júnior,Bremer,18/03/1997,Bremer1997,Centre-back,,,Juventus,720,90,72,69,,1,17,x,,,,,,885197,8,1
+9/27/2024,01/10/2024,CHI x BRA / BRA x PER,2,world cup qualifiers,Brazil,Dorival Júnior,Bremer,18/03/1997,Bremer1997,Centre-back,,,Juventus,270,0,747,,,0,0,x,x,,,,,885197,3,0
+3/16/2026,01/03/2026,BRA x FRA / BRA x CRO,2,friendly,Brazil,Carlo Ancelotti,Bremer,18/03/1997,Bremer1997,Centre-back,,,Juventus,1413,90,697,69,2,1,5,x,,,,,,885197,18,1
+5/28/2023,01/06/2023,BRA x GUI / BRA x SEN,2,friendly,Brazil,Ramon Menezes,André,16/07/2001,André2001,Midfielder,,,Fluminense,1365,16,712,65,,0,0,x,,,,,,1035996,16,1
+5/28/2023,01/06/2023,BRA x GUI / BRA x SEN,2,friendly,Brazil,Ramon Menezes,Bruno Guimarães,16/11/1997,BrunoGuimarães1997,Midfielder,,,Newcastle,1060,115,727,675,,1,5,x,,,,,,866469,12,2
+5/28/2023,01/06/2023,BRA x GUI / BRA x SEN,2,friendly,Brazil,Ramon Menezes,Casemiro,23/02/1992,Casemiro1992,Midfielder,,,Manchester United,1087,90,735,61,,1,5,x,,,,,,122951,12,1
+5/28/2023,01/06/2023,BRA x GUI / BRA x SEN,2,friendly,Brazil,Ramon Menezes,Joelinton,14/08/1996,Joelinton1996,Midfielder,,,Newcastle,812,132,708,70,,2,10,x,,,,,,560128,10,2
+5/28/2023,01/06/2023,BRA x GUI / BRA x SEN,2,friendly,Brazil,Ramon Menezes,Lucas Paquetá,27/08/1997,LucasPaquetá1997,Midfielder,,,West Ham,1126,139,704,725,,2,10,x,,,,,,839981,14,2
+5/28/2023,01/06/2023,BRA x GUI / BRA x SEN,2,friendly,Brazil,Ramon Menezes,Raphael Veiga,19/06/1995,RaphaelVeiga1995,Midfielder,,,Palmeiras,818,48,773,655,,0,0,x,,,,,,840020,11,2
+5/28/2023,01/06/2023,BRA x GUI / BRA x SEN,2,friendly,Brazil,Ramon Menezes,Malcom,26/02/1997,Malcom1997,Forward,,,Zenit,619,65,803,73,,1,5,x,,,,,,551772,7,2
+5/28/2023,01/06/2023,BRA x GUI / BRA x SEN,2,friendly,Brazil,Ramon Menezes,Pedro,20/06/1997,Pedro1997,Forward,,,Flamengo,945,44,716,66,,0,0,x,,,,,,840219,14,2
+5/28/2023,01/06/2023,BRA x GUI / BRA x SEN,2,friendly,Brazil,Ramon Menezes,Richarlison,10/05/1997,Richarlison1997,Forward,,,Tottenham,269,140,676,65,,2,10,x,,,,,,840217,8,2
+5/28/2023,01/06/2023,BRA x GUI / BRA x SEN,2,friendly,Brazil,Ramon Menezes,Rodrygo,09/01/2001,Rodrygo2001,Forward,,,Real Madrid,1193,82,728,75,,2,10,x,,,,,,910536,16,1
+5/28/2023,01/06/2023,BRA x GUI / BRA x SEN,2,friendly,Brazil,Ramon Menezes,Rony,11/05/1995,Rony1995,Forward,,,Palmeiras,852,34,684,65,,0,0,x,,,,,,835260,12,2
+5/28/2023,01/06/2023,BRA x GUI / BRA x SEN,2,friendly,Brazil,Ramon Menezes,Vinícius Júnior,12/07/2000,ViníciusJúnior2000,Forward,,,Real Madrid,1065,179,724,69,,1,5,x,,,,,,868812,13,2
+8/18/2023,01/09/2023,BRA x BOL / PER x BRA,2,world cup qualifiers,Brazil,Fernando Diniz,Alisson,02/10/1992,Alisson1992,Goalkeeper,,,Liverpool,344,0,71,,,0,0,x,,,,,,243609,5,0
+8/18/2023,01/09/2023,BRA x BOL / PER x BRA,2,world cup qualifiers,Brazil,Fernando Diniz,Bento,10/06/1999,Bento1999,Goalkeeper,,,Athletico-PR,1170,0,695,,,0,0,x,x,,,,,1016104,13,0
+8/18/2023,01/09/2023,BRA x BOL / PER x BRA,2,world cup qualifiers,Brazil,Fernando Diniz,Lucas Perri,10/12/1997,LucasPerri1997,Goalkeeper,,,Botafogo,990,0,749,,,0,0,,,,x,,,871290,11,0
+8/18/2023,01/09/2023,BRA x BOL / PER x BRA,2,world cup qualifiers,Brazil,Fernando Diniz,Ederson,17/08/1993,Ederson1993,Goalkeeper,,,Manchester City,315,180,708,675,,2,10,x,,,,,,254491,4,2
+8/18/2023,01/09/2023,BRA x BOL / PER x BRA,2,world cup qualifiers,Brazil,Fernando Diniz,Danilo,15/07/1991,Danilo1991,Full-back,Centre-back,,Juventus,250,0,67,,,2,10,x,,,,,,1064039,9,0
+8/18/2023,01/09/2023,BRA x BOL / PER x BRA,2,world cup qualifiers,Brazil,Fernando Diniz,Vanderson,21/06/2001,Vanderson2001,Full-back,,,Monaco,245,5,74,,,0,0,x,,,,,,1090694,6,1
+8/18/2023,01/09/2023,BRA x BOL / PER x BRA,2,world cup qualifiers,Brazil,Fernando Diniz,Caio Henrique,31/07/1997,CaioHenrique1997,Full-back,,,Monaco,269,19,697,66,,0,0,x,,,,,,845170,8,1
+8/18/2023,01/09/2023,BRA x BOL / PER x BRA,2,world cup qualifiers,Brazil,Fernando Diniz,Renan Lodi,08/04/1998,RenanLodi1998,Full-back,,,Olympique de Marselha,390,161,715,69,,2,10,x,,,,,,851150,5,2
+3/3/2023,01/03/2023,MAR x BRA,1,friendly,Brazil,Ramon Menezes,Éder Militão,18/01/1998,ÉderMilitão1998,Centre-back,Full-back,,Real Madrid,1175,0,725,,,1,10,x,,,,,,822519,14,0
+5/28/2023,01/06/2023,BRA x GUI / BRA x SEN,2,friendly,Brazil,Ramon Menezes,Éder Militão,18/01/1998,ÉderMilitão1998,Centre-back,Full-back,,Real Madrid,1305,180,711,715,,2,10,x,,,,,,822519,15,2
+5/10/2024,01/06/2024,MEX x BRA (friendly) / EUA x BRA (friendly) / BRA x CRC / PAR x BRA / BRA x COL / URU x BRA,6,continental tournament,Brazil,Dorival Júnior,Éder Militão,18/01/1998,ÉderMilitão1998,Centre-back,Full-back,,Real Madrid,209,90,697,70,,5,83,x,,,,,,822519,7,1
+8/23/2024,01/09/2024,BRA x EQU / PAR x BRA,2,world cup qualifiers,Brazil,Dorival Júnior,Éder Militão,18/01/1998,ÉderMilitão1998,Centre-back,Full-back,,Real Madrid,180,356,725,72,,0,0,x,x,,,,,822519,2,4
+8/18/2023,01/09/2023,BRA x BOL / PER x BRA,2,world cup qualifiers,Brazil,Fernando Diniz,André,16/07/2001,André2001,Midfielder,,,Fluminense,810,0,717,,,0,0,x,,,,,,1035996,9,0
+8/18/2023,01/09/2023,BRA x BOL / PER x BRA,2,world cup qualifiers,Brazil,Fernando Diniz,Bruno Guimarães,16/11/1997,BrunoGuimarães1997,Midfielder,,,Newcastle,85,156,67,755,,2,10,x,,,,,,866469,5,2
+8/18/2023,01/09/2023,BRA x BOL / PER x BRA,2,world cup qualifiers,Brazil,Fernando Diniz,Casemiro,23/02/1992,Casemiro1992,Midfielder,,,Manchester United,316,180,734,735,,2,10,x,,,,,,122951,5,2
+8/18/2023,01/09/2023,BRA x BOL / PER x BRA,2,world cup qualifiers,Brazil,Fernando Diniz,Joelinton,14/08/1996,Joelinton1996,Midfielder,,,Newcastle,90,24,70,63,,0,0,x,,,,,,560128,4,2
+8/18/2023,01/09/2023,BRA x BOL / PER x BRA,2,world cup qualifiers,Brazil,Fernando Diniz,Raphael Veiga,19/06/1995,RaphaelVeiga1995,Midfielder,,,Palmeiras,946,1,724,,,0,0,x,,,,,,840020,11,1
+8/18/2023,01/09/2023,BRA x BOL / PER x BRA,2,world cup qualifiers,Brazil,Fernando Diniz,Antony,24/02/2000,Antony2000,Forward,,,Manchester United,329,0,722,,,0,0,x,,x,,,,958380,6,0
+8/18/2023,01/09/2023,BRA x BOL / PER x BRA,2,world cup qualifiers,Brazil,Fernando Diniz,Gabriel Jesus,03/04/1997,GabrielJesus1997,Forward,,,Arsenal,221,34,675,655,,0,0,,,,x,,,794839,4,2
+8/18/2023,01/09/2023,BRA x BOL / PER x BRA,2,world cup qualifiers,Brazil,Fernando Diniz,Gabriel Martinelli,18/06/2001,GabrielMartinelli2001,Forward,,,Arsenal,326,5,69,,,0,0,x,,,,,,922573,6,1
+8/18/2023,01/09/2023,BRA x BOL / PER x BRA,2,world cup qualifiers,Brazil,Fernando Diniz,Matheus Cunha,27/05/1999,MatheusCunha1999,Forward,Midfielder,,Wolverhampton,77,19,72,67,,0,0,x,,,,,,886363,6,1
+8/18/2023,01/09/2023,BRA x BOL / PER x BRA,2,world cup qualifiers,Brazil,Fernando Diniz,Neymar,05/02/1992,Neymar1992,Forward,Midfielder,,Al-Hilal,90,179,98,865,,2,10,x,,,,,,124712,1,2
+8/18/2023,01/09/2023,BRA x BOL / PER x BRA,2,world cup qualifiers,Brazil,Fernando Diniz,Richarlison,10/05/1997,Richarlison1997,Forward,,,Tottenham,135,135,69,64,,2,10,x,,,,,,840217,4,2
+8/18/2023,01/09/2023,BRA x BOL / PER x BRA,2,world cup qualifiers,Brazil,Fernando Diniz,Rodrygo,09/01/2001,Rodrygo2001,Forward,,,Real Madrid,296,179,694,82,,2,10,x,,,,,,910536,5,2
+8/18/2023,01/09/2023,BRA x BOL / PER x BRA,2,world cup qualifiers,Brazil,Fernando Diniz,Vinícius Júnior,12/07/2000,ViníciusJúnior2000,Forward,,,Real Madrid,364,0,724,,,0,0,x,x,,,,,868812,5,0
+8/18/2023,01/09/2023,BRA x BOL / PER x BRA,2,world cup qualifiers,Brazil,Fernando Diniz,Raphinha,14/12/1996,Raphinha1996,Forward,,,Barcelona,178,175,672,805,,2,10,,,,x,,,831005,5,2
+9/23/2023,01/10/2023,BRA x VEN / URU x BRA,2,world cup qualifiers,Brazil,Fernando Diniz,Alisson,02/10/1992,Alisson1992,Goalkeeper,,,Liverpool,90,0,64,,,0,0,x,,,,,,243609,1,0
+9/23/2023,01/10/2023,BRA x VEN / URU x BRA,2,world cup qualifiers,Brazil,Fernando Diniz,Ederson,17/08/1993,Ederson1993,Goalkeeper,,,Manchester City,270,180,717,655,,2,10,x,,,,,,254491,3,2
+9/23/2023,01/10/2023,BRA x VEN / URU x BRA,2,world cup qualifiers,Brazil,Fernando Diniz,Lucas Perri,10/12/1997,LucasPerri1997,Goalkeeper,,,Botafogo,135,0,685,,,0,0,x,,,,,,871290,2,0
+9/23/2023,01/10/2023,BRA x VEN / URU x BRA,2,world cup qualifiers,Brazil,Fernando Diniz,Danilo,15/07/1991,Danilo1991,Full-back,Centre-back,,Juventus,0,0,,,,1,5,x,,,,,,1064039,0,0
+9/23/2023,01/10/2023,BRA x VEN / URU x BRA,2,world cup qualifiers,Brazil,Fernando Diniz,Vanderson,21/06/2001,Vanderson2001,Full-back,,,Monaco,156,0,70,,,0,0,x,x,,,,,1090694,2,0
+9/23/2023,01/10/2023,BRA x VEN / URU x BRA,2,world cup qualifiers,Brazil,Fernando Diniz,Yan Couto,03/06/2002,YanCouto2002,Full-back,,,Girona,180,121,715,66,,1,5,,,,x,,,1002813,2,2
+9/23/2023,01/10/2023,BRA x VEN / URU x BRA,2,world cup qualifiers,Brazil,Fernando Diniz,Caio Henrique,31/07/1997,CaioHenrique1997,Full-back,,,Monaco,172,0,76,,,0,0,x,x,,,,,845170,2,0
+9/23/2023,01/10/2023,BRA x VEN / URU x BRA,2,world cup qualifiers,Brazil,Fernando Diniz,Guilherme Arana,14/04/1997,GuilhermeArana1997,Full-back,,,Atlético-MG,180,107,745,67,,1,5,,,,x,,,1127439,2,2
+9/23/2023,01/10/2023,BRA x VEN / URU x BRA,2,world cup qualifiers,Brazil,Fernando Diniz,Renan Lodi,08/04/1998,RenanLodi1998,Full-back,,,Olympique de Marselha,170,0,70,,,0,0,x,x,,,,,851150,2,0
+9/23/2023,01/10/2023,BRA x VEN / URU x BRA,2,world cup qualifiers,Brazil,Fernando Diniz,Carlos Augusto,07/01/1999,CarlosAugusto1999,Full-back,,,Inter de Milão,116,73,68,65,,1,5,,,,x,,,929199,2,1
+9/27/2024,01/10/2024,CHI x BRA / BRA x PER,2,world cup qualifiers,Brazil,Dorival Júnior,Éder Militão,18/01/1998,ÉderMilitão1998,Centre-back,,,Real Madrid,305,0,735,,,0,0,x,x,,,,,822519,4,0
+11/1/2024,01/11/2024,VEN x BRA / BRA x URU,2,world cup qualifiers,Brazil,Dorival Júnior,Éder Militão,18/01/1998,ÉderMilitão1998,Centre-back,Full-back,,Real Madrid,270,0,687,,,0,0,x,x,,,,,822519,3,0
+10/1/2025,01/10/2025,COR x BRA / JAP x BRA,2,friendly,Brazil,Carlo Ancelotti,Éder Militão,18/01/1998,ÉderMilitão1998,Centre-back,Full-back,,Real Madrid,315,90,735,76,,1,5,x,,,,,,822519,4,1
+11/3/2025,01/11/2025,SEN x BRA / TUN x BRA,2,friendly,Brazil,Carlo Ancelotti,Éder Militão,18/01/1998,ÉderMilitão1998,Centre-back,Full-back,,Real Madrid,360,150,77,71,,2,10,x,,,,,,822519,4,2
+9/23/2023,01/10/2023,BRA x VEN / URU x BRA,2,world cup qualifiers,Brazil,Fernando Diniz,André,16/07/2001,André2001,Midfielder,,,Fluminense,180,11,685,63,,0,0,x,,,,,,1035996,2,1
+9/23/2023,01/10/2023,BRA x VEN / URU x BRA,2,world cup qualifiers,Brazil,Fernando Diniz,Casemiro,23/02/1992,Casemiro1992,Midfielder,,,Manchester United,244,169,75,685,,2,10,x,,,,,,122951,3,2
+9/23/2023,01/10/2023,BRA x VEN / URU x BRA,2,world cup qualifiers,Brazil,Fernando Diniz,Bruno Guimarães,16/11/1997,BrunoGuimarães1997,Midfielder,,,Newcastle,180,163,66,68,,2,10,x,,,,,,866469,2,2
+9/23/2023,01/10/2023,BRA x VEN / URU x BRA,2,world cup qualifiers,Brazil,Fernando Diniz,Gerson,20/05/1997,Gerson1997,Midfielder,,,Flamengo,263,11,687,67,,0,0,x,,,,,,611876,3,1
+9/23/2023,01/10/2023,BRA x VEN / URU x BRA,2,world cup qualifiers,Brazil,Fernando Diniz,Raphael Veiga,19/06/1995,RaphaelVeiga1995,Midfielder,,,Palmeiras,121,12,72,65,,0,0,x,,,,,,840020,2,1
+9/23/2023,01/10/2023,BRA x VEN / URU x BRA,2,world cup qualifiers,Brazil,Fernando Diniz,Neymar,05/02/1992,Neymar1992,Forward,Midfielder,,Al-Hilal,206,135,727,74,,2,10,x,,,,,,124712,3,2
+9/23/2023,01/10/2023,BRA x VEN / URU x BRA,2,world cup qualifiers,Brazil,Fernando Diniz,Rodrygo,09/01/2001,Rodrygo2001,Forward,Midfielder,,Real Madrid,177,180,68,70,,2,10,x,,,,,,910536,2,2
+9/23/2023,01/10/2023,BRA x VEN / URU x BRA,2,world cup qualifiers,Brazil,Fernando Diniz,Vinícius Júnior,12/07/2000,ViníciusJúnior2000,Forward,,,Real Madrid,0,163,,66,,2,10,x,,,,,,868812,0,2
+9/23/2023,01/10/2023,BRA x VEN / URU x BRA,2,world cup qualifiers,Brazil,Fernando Diniz,Gabriel Jesus,03/04/1997,GabrielJesus1997,Forward,,,Arsenal,93,121,67,69,,1,5,x,,,,,,794839,2,2
+9/23/2023,01/10/2023,BRA x VEN / URU x BRA,2,world cup qualifiers,Brazil,Fernando Diniz,Richarlison,10/05/1997,Richarlison1997,Forward,,,Tottenham,10,104,86,66,,1,5,x,,,,,,840217,1,2
+9/23/2023,01/10/2023,BRA x VEN / URU x BRA,2,world cup qualifiers,Brazil,Fernando Diniz,Raphinha,14/12/1996,Raphinha1996,Forward,,,Barcelona,112,0,757,,,0,0,x,x,,,,,831005,3,0
+9/23/2023,01/10/2023,BRA x VEN / URU x BRA,2,world cup qualifiers,Brazil,Fernando Diniz,David Neres,03/03/1997,DavidNeres1997,Forward,,,Benfica,34,17,655,65,,0,0,,,,x,,,850993,2,1
+9/23/2023,01/10/2023,BRA x VEN / URU x BRA,2,world cup qualifiers,Brazil,Fernando Diniz,Matheus Cunha,27/05/1999,MatheusCunha1999,Forward,Midfielder,,Wolverhampton,132,23,68,65,,0,0,x,,,,,,886363,2,2
+11/6/2023,01/11/2023,COL x BRA / BRA x ARG,2,world cup qualifiers,Brazil,Fernando Diniz,Alisson,02/10/1992,Alisson1992,Goalkeeper,,,Liverpool,270,180,727,745,,2,10,x,,,,,,243609,3,2
+11/6/2023,01/11/2023,COL x BRA / BRA x ARG,2,world cup qualifiers,Brazil,Fernando Diniz,Ederson,17/08/1993,Ederson1993,Goalkeeper,,,Manchester City,270,0,70,,,0,0,x,x,,,,,254491,3,0
+11/6/2023,01/11/2023,COL x BRA / BRA x ARG,2,world cup qualifiers,Brazil,Fernando Diniz,Bento,10/06/1999,Bento1999,Goalkeeper,,,Athletico-PR,540,0,665,,,0,0,,,,x,,,1016104,6,0
+11/6/2023,01/11/2023,COL x BRA / BRA x ARG,2,world cup qualifiers,Brazil,Fernando Diniz,Lucas Perri,10/12/1997,LucasPerri1997,Goalkeeper,,,Botafogo,450,0,634,,,0,0,x,,,,,,871290,5,0
+11/6/2023,01/11/2023,COL x BRA / BRA x ARG,2,world cup qualifiers,Brazil,Fernando Diniz,Emerson Royal,14/01/1999,EmersonRoyal1999,Full-back,,,Tottenham,124,180,70,705,,2,10,x,,,,,,856123,3,2
+11/6/2023,01/11/2023,COL x BRA / BRA x ARG,2,world cup qualifiers,Brazil,Fernando Diniz,Carlos Augusto,07/01/1999,CarlosAugusto1999,Full-back,,,Inter de Milão,156,90,672,63,,1,5,x,,,,,,929199,4,1
+11/6/2023,01/11/2023,COL x BRA / BRA x ARG,2,world cup qualifiers,Brazil,Fernando Diniz,Renan Lodi,08/04/1998,RenanLodi1998,Full-back,,,Olympique de Marselha,270,81,71,61,,1,5,x,,,,,,851150,4,1
+3/11/2024,01/03/2024,ING x BRA / ESP x BRA,2,friendly,Brazil,Dorival Júnior,Fabrício Bruno,12/02/1996,FabrícioBruno1996,Centre-back,,,Flamengo,1129,180,722,67,,2,10,,,,x,,,840220,14,2
+8/23/2024,01/09/2024,BRA x EQU / PAR x BRA,2,world cup qualifiers,Brazil,Dorival Júnior,Fabrício Bruno,12/02/1996,FabrícioBruno1996,Centre-back,,,Flamengo,855,0,704,,,0,0,,,,x,,,840220,10,0
+9/27/2024,01/10/2024,CHI x BRA / BRA x PER,2,world cup qualifiers,Brazil,Dorival Júnior,Fabrício Bruno,12/02/1996,FabrícioBruno1996,Centre-back,,,Flamengo,353,0,71,,,0,0,,,,x,,,840220,4,0
+8/25/2025,01/09/2025,BRA x CHI / BOL x BRA,2,world cup qualifiers,Brazil,Carlo Ancelotti,Fabrício Bruno,12/02/1996,FabrícioBruno1996,Centre-back,,,Cruzeiro,1080,90,739,66,,1,5,x,,,,,,840220,14,1
+11/6/2023,01/11/2023,COL x BRA / BRA x ARG,2,world cup qualifiers,Brazil,Fernando Diniz,André,16/07/2001,André2001,Midfielder,,,Fluminense,480,180,72,715,,2,10,x,,,,,,1035996,5,2
+11/6/2023,01/11/2023,COL x BRA / BRA x ARG,2,world cup qualifiers,Brazil,Fernando Diniz,Bruno Guimarães,16/11/1997,BrunoGuimarães1997,Midfielder,,,Newcastle,365,168,712,70,,2,10,x,,,,,,866469,5,2
+11/6/2023,01/11/2023,COL x BRA / BRA x ARG,2,world cup qualifiers,Brazil,Fernando Diniz,Douglas Luiz,09/05/1998,DouglasLuiz1998,Midfielder,,,Aston Villa,334,20,765,655,,0,0,x,,,,,,867887,4,2
+11/6/2023,01/11/2023,COL x BRA / BRA x ARG,2,world cup qualifiers,Brazil,Fernando Diniz,Joelinton,14/08/1996,Joelinton1996,Midfielder,,,Newcastle,415,9,702,58,,0,0,x,,,,,,560128,5,1
+11/6/2023,01/11/2023,COL x BRA / BRA x ARG,2,world cup qualifiers,Brazil,Fernando Diniz,Raphael Veiga,19/06/1995,RaphaelVeiga1995,Midfielder,,,Palmeiras,479,12,738,68,,0,0,x,,,,,,840020,6,1
+11/6/2023,01/11/2023,COL x BRA / BRA x ARG,2,world cup qualifiers,Brazil,Fernando Diniz,Rodrygo,09/01/2001,Rodrygo2001,Midfielder,Forward,,Real Madrid,232,159,668,67,,2,10,x,,,,,,910536,4,2
+11/6/2023,01/11/2023,COL x BRA / BRA x ARG,2,world cup qualifiers,Brazil,Fernando Diniz,Endrick,21/07/2006,Endrick2006,Forward,,,Palmeiras,388,26,736,655,,0,0,x,,,,,,1174937,5,2
+11/6/2023,01/11/2023,COL x BRA / BRA x ARG,2,world cup qualifiers,Brazil,Fernando Diniz,Gabriel Jesus,03/04/1997,GabrielJesus1997,Forward,,,Arsenal,149,90,76,64,,1,5,x,,,,,,794839,2,1
+11/6/2023,01/11/2023,COL x BRA / BRA x ARG,2,world cup qualifiers,Brazil,Fernando Diniz,Gabriel Martinelli,18/06/2001,GabrielMartinelli2001,Forward,,,Arsenal,347,168,738,71,,2,10,x,,,,,,922573,5,2
+11/6/2023,01/11/2023,COL x BRA / BRA x ARG,2,world cup qualifiers,Brazil,Fernando Diniz,João Pedro,26/09/2001,JoãoPedro2001,Forward,,,Brighton,197,63,66,68,,0,0,x,,,,,,975079,4,1
+11/6/2023,01/11/2023,COL x BRA / BRA x ARG,2,world cup qualifiers,Brazil,Fernando Diniz,Paulinho,15/07/2000,Paulinho2000,Forward,,,Atlético-MG,523,21,747,66,,0,0,x,,,,,,885179,6,1
+11/6/2023,01/11/2023,COL x BRA / BRA x ARG,2,world cup qualifiers,Brazil,Fernando Diniz,Pepê,24/02/1997,Pepê1997,Forward,Midfielder,Full-back,Porto,263,9,72,65,,0,0,x,,,,,,882664,4,1
+11/6/2023,01/11/2023,COL x BRA / BRA x ARG,2,world cup qualifiers,Brazil,Fernando Diniz,Raphinha,14/12/1996,Raphinha1996,Forward,,,Barcelona,34,154,705,695,,2,10,x,,,,,,831005,2,2
+11/6/2023,01/11/2023,COL x BRA / BRA x ARG,2,world cup qualifiers,Brazil,Fernando Diniz,Vinícius Júnior,12/07/2000,ViníciusJúnior2000,Forward,,,Real Madrid,357,27,69,72,,1,5,x,,,,,,868812,4,1
+3/11/2024,01/03/2024,ING x BRA / ESP x BRA,2,friendly,Brazil,Dorival Júnior,Bento,10/06/1999,Bento1999,Goalkeeper,,,Athletico-PR,1260,180,731,745,,2,10,x,,,,,,1016104,14,2
+3/11/2024,01/03/2024,ING x BRA / ESP x BRA,2,friendly,Brazil,Dorival Júnior,Ederson,17/08/1993,Ederson1993,Goalkeeper,,,Manchester City,1684,0,695,,,0,0,x,x,,,,,254491,20,0
+3/11/2024,01/03/2024,ING x BRA / ESP x BRA,2,friendly,Brazil,Dorival Júnior,Léo Jardim,20/03/1995,LéoJardim1995,Goalkeeper,,,Vasco da Gama,1530,0,714,,,0,0,,,,x,,,595598,17,0
+3/11/2024,01/03/2024,ING x BRA / ESP x BRA,2,friendly,Brazil,Dorival Júnior,Rafael,23/06/1989,Rafael1989,Goalkeeper,,,São Paulo,1440,0,711,,,0,0,x,,,,,,33132,16,0
+3/11/2024,01/03/2024,ING x BRA / ESP x BRA,2,friendly,Brazil,Dorival Júnior,Danilo,15/07/1991,Danilo1991,Full-back,Centre-back,,Juventus,1292,0,694,,,2,10,x,,,,,,1064039,20,0
+3/11/2024,01/03/2024,ING x BRA / ESP x BRA,2,friendly,Brazil,Dorival Júnior,Yan Couto,03/06/2002,YanCouto2002,Full-back,,,Girona,1192,45,708,67,,0,0,x,,,,,,1002813,18,1
+3/11/2024,01/03/2024,ING x BRA / ESP x BRA,2,friendly,Brazil,Dorival Júnior,Ayrton Lucas,19/06/1997,AyrtonLucas1997,Full-back,,,Flamengo,1010,0,713,,,0,0,x,,,,,,818473,14,0
+3/11/2024,01/03/2024,ING x BRA / ESP x BRA,2,friendly,Brazil,Dorival Júnior,Wendell,20/07/1993,Wendell1993,Full-back,,,Porto,966,179,749,66,,2,10,x,,,,,,335033,14,2
+10/1/2025,01/10/2025,COR x BRA / JAP x BRA,2,friendly,Brazil,Carlo Ancelotti,Fabrício Bruno,12/02/1996,FabrícioBruno1996,Centre-back,,,Cruzeiro,360,90,728,65,,1,5,x,,,,,,840220,4,1
+11/3/2025,01/11/2025,SEN x BRA / TUN x BRA,2,friendly,Brazil,Carlo Ancelotti,Fabrício Bruno,12/02/1996,FabrícioBruno1996,Centre-back,,,Cruzeiro,161,31,685,68,,0,0,x,,,,,,840220,2,2
+8/18/2023,01/09/2023,BRA x BOL / PER x BRA,2,world cup qualifiers,Brazil,Fernando Diniz,Gabriel Magalhães,19/12/1997,GabrielMagalhães1997,Centre-back,,,Arsenal,427,174,661,72,,2,10,x,,,,,,869792,7,2
+9/23/2023,01/10/2023,BRA x VEN / URU x BRA,2,world cup qualifiers,Brazil,Fernando Diniz,Gabriel Magalhães,19/12/1997,GabrielMagalhães1997,Centre-back,,,Arsenal,180,180,71,735,,2,10,x,,,,,,869792,2,2
+11/6/2023,01/11/2023,COL x BRA / BRA x ARG,2,world cup qualifiers,Brazil,Fernando Diniz,Gabriel Magalhães,19/12/1997,GabrielMagalhães1997,Centre-back,,,Arsenal,360,154,692,645,,2,10,x,,,,,,869792,4,2
+3/11/2024,01/03/2024,ING x BRA / ESP x BRA,2,friendly,Brazil,Dorival Júnior,Gabriel Magalhães,19/12/1997,GabrielMagalhães1997,Centre-back,,,Arsenal,1791,0,738,,,0,0,x,x,,,,,869792,20,0
+3/11/2024,01/03/2024,ING x BRA / ESP x BRA,2,friendly,Brazil,Dorival Júnior,André,16/07/2001,André2001,Midfielder,,,Fluminense,1124,45,698,64,,0,0,x,,,,,,1035996,15,1
+3/11/2024,01/03/2024,ING x BRA / ESP x BRA,2,friendly,Brazil,Dorival Júnior,Andreas Pereira,01/01/1996,AndreasPereira1996,Midfielder,,,Fulham,1475,64,709,665,,0,0,x,,,,,,285949,21,2
+3/11/2024,01/03/2024,ING x BRA / ESP x BRA,2,friendly,Brazil,Dorival Júnior,Bruno Guimarães,16/11/1997,BrunoGuimarães1997,Midfielder,,,Newcastle,1984,124,744,68,,2,10,x,,,,,,866469,22,2
+3/11/2024,01/03/2024,ING x BRA / ESP x BRA,2,friendly,Brazil,Dorival Júnior,Casemiro,23/02/1992,Casemiro1992,Midfielder,,,Manchester United,702,0,716,,,0,0,x,x,,,,,122951,9,0
+3/11/2024,01/03/2024,ING x BRA / ESP x BRA,2,friendly,Brazil,Dorival Júnior,Pepê,24/02/1997,Pepê1997,Forward,Midfielder,Full-back,Porto,1497,0,715,,,0,0,,,,x,,,882664,21,0
+3/11/2024,01/03/2024,ING x BRA / ESP x BRA,2,friendly,Brazil,Dorival Júnior,Douglas Luiz,09/05/1998,DouglasLuiz1998,Midfielder,,,Aston Villa,1774,30,731,685,,0,0,x,,,,,,867887,21,2
+3/11/2024,01/03/2024,ING x BRA / ESP x BRA,2,friendly,Brazil,Dorival Júnior,João Gomes,12/02/2001,JoãoGomes2001,Midfielder,,,Wolverhampton,1153,135,684,64,,2,10,x,,,,,,1015267,15,2
+3/11/2024,01/03/2024,ING x BRA / ESP x BRA,2,friendly,Brazil,Dorival Júnior,Lucas Paquetá,27/08/1997,LucasPaquetá1997,Midfielder,,,West Ham,1088,161,714,695,,2,10,x,,,,,,839981,15,2
+3/11/2024,01/03/2024,ING x BRA / ESP x BRA,2,friendly,Brazil,Dorival Júnior,Pablo Maia,10/01/2002,PabloMaia2002,Midfielder,,,São Paulo,1357,1,694,,,0,0,x,,,,,,1120721,16,1
+3/11/2024,01/03/2024,ING x BRA / ESP x BRA,2,friendly,Brazil,Dorival Júnior,Endrick,21/07/2006,Endrick2006,Forward,,,Palmeiras,705,64,726,705,,0,0,x,,,,,,1174937,16,2
+3/11/2024,01/03/2024,ING x BRA / ESP x BRA,2,friendly,Brazil,Dorival Júnior,Gabriel Martinelli,18/06/2001,GabrielMartinelli2001,Forward,,,Arsenal,1248,0,718,,,0,0,x,x,,,,,922573,18,0
+3/11/2024,01/03/2024,ING x BRA / ESP x BRA,2,friendly,Brazil,Dorival Júnior,Galeno,22/10/1997,Galeno1997,Forward,,,Porto,1191,8,751,71,,0,0,,,,x,,,845754,22,1
+3/11/2024,01/03/2024,ING x BRA / ESP x BRA,2,friendly,Brazil,Dorival Júnior,Raphinha,14/12/1996,Raphinha1996,Forward,,,Barcelona,837,123,75,655,,2,10,x,,,,,,831005,15,2
+3/11/2024,01/03/2024,ING x BRA / ESP x BRA,2,friendly,Brazil,Dorival Júnior,Richarlison,10/05/1997,Richarlison1997,Forward,,,Tottenham,993,0,718,,,0,0,x,,,,,,840217,14,0
+3/11/2024,01/03/2024,ING x BRA / ESP x BRA,2,friendly,Brazil,Dorival Júnior,Rodrygo,09/01/2001,Rodrygo2001,Forward,,,Real Madrid,1640,153,73,74,,2,10,x,,,,,,910536,23,2
+3/11/2024,01/03/2024,ING x BRA / ESP x BRA,2,friendly,Brazil,Dorival Júnior,Savinho,10/04/2004,Savinho2004,Forward,,,Girona,1439,12,722,65,,0,0,x,,,,,,1046795,18,1
+3/11/2024,01/03/2024,ING x BRA / ESP x BRA,2,friendly,Brazil,Dorival Júnior,Vinícius Júnior,12/07/2000,ViníciusJúnior2000,Forward,,,Real Madrid,1237,160,745,64,,2,10,x,,,,,,868812,14,2
+5/10/2024,01/06/2024,MEX x BRA (friendly) / EUA x BRA (friendly) / BRA x CRC / PAR x BRA / BRA x COL / URU x BRA,6,continental tournament,Brazil,Dorival Júnior,Alisson,02/10/1992,Alisson1992,Goalkeeper,,,Liverpool,540,90,725,64,,6,10,x,,,,,,243609,6,1
+5/10/2024,01/06/2024,MEX x BRA (friendly) / EUA x BRA (friendly) / BRA x CRC / PAR x BRA / BRA x COL / URU x BRA,6,continental tournament,Brazil,Dorival Júnior,Bento,10/06/1999,Bento1999,Goalkeeper,,,Athletico-PR,990,0,722,,,0,0,x,,,,,,1016104,11,0
+5/10/2024,01/06/2024,MEX x BRA (friendly) / EUA x BRA (friendly) / BRA x CRC / PAR x BRA / BRA x COL / URU x BRA,6,continental tournament,Brazil,Dorival Júnior,Ederson,17/08/1993,Ederson1993,Goalkeeper,,,Manchester City,435,0,714,,,0,0,x,x,,,,,254491,5,0
+5/10/2024,01/06/2024,MEX x BRA (friendly) / EUA x BRA (friendly) / BRA x CRC / PAR x BRA / BRA x COL / URU x BRA,6,continental tournament,Brazil,Dorival Júnior,Rafael,23/06/1989,Rafael1989,Goalkeeper,,,São Paulo,810,0,683,,,0,0,,,,x,,,33132,9,0
+5/10/2024,01/06/2024,MEX x BRA (friendly) / EUA x BRA (friendly) / BRA x CRC / PAR x BRA / BRA x COL / URU x BRA,6,continental tournament,Brazil,Dorival Júnior,Danilo,15/07/1991,Danilo1991,Full-back,Centre-back,,Juventus,504,0,73,,,5,83,x,,,,,,1064039,6,0
+5/10/2024,01/06/2024,MEX x BRA (friendly) / EUA x BRA (friendly) / BRA x CRC / PAR x BRA / BRA x COL / URU x BRA,6,continental tournament,Brazil,Dorival Júnior,Yan Couto,03/06/2002,YanCouto2002,Full-back,,,Girona,392,90,672,75,,1,17,x,,,,,,1002813,6,1
+5/10/2024,01/06/2024,MEX x BRA (friendly) / EUA x BRA (friendly) / BRA x CRC / PAR x BRA / BRA x COL / URU x BRA,6,continental tournament,Brazil,Dorival Júnior,Guilherme Arana,14/04/1997,GuilhermeArana1997,Full-back,,,Atlético-MG,986,90,754,62,,3,5,x,,,,,,1127439,12,1
+5/10/2024,01/06/2024,MEX x BRA (friendly) / EUA x BRA (friendly) / BRA x CRC / PAR x BRA / BRA x COL / URU x BRA,6,continental tournament,Brazil,Dorival Júnior,Wendell,20/07/1993,Wendell1993,Full-back,,,Porto,621,0,707,,,3,5,x,,,,,,335033,7,0
+5/10/2024,01/06/2024,MEX x BRA (friendly) / EUA x BRA (friendly) / BRA x CRC / PAR x BRA / BRA x COL / URU x BRA,6,continental tournament,Brazil,Dorival Júnior,Gabriel Magalhães,19/12/1997,GabrielMagalhães1997,Centre-back,,,Arsenal,900,0,691,,,0,0,x,,,,,,869792,10,0
+8/23/2024,01/09/2024,BRA x EQU / PAR x BRA,2,world cup qualifiers,Brazil,Dorival Júnior,Gabriel Magalhães,19/12/1997,GabrielMagalhães1997,Centre-back,,,Arsenal,168,4,76,,,2,10,x,,,,,,869792,2,1
+9/27/2024,01/10/2024,CHI x BRA / BRA x PER,2,world cup qualifiers,Brazil,Dorival Júnior,Gabriel Magalhães,19/12/1997,GabrielMagalhães1997,Centre-back,,,Arsenal,298,180,74,74,,2,10,x,,,,,,869792,4,2
+11/1/2024,01/11/2024,VEN x BRA / BRA x URU,2,world cup qualifiers,Brazil,Dorival Júnior,Gabriel Magalhães,19/12/1997,GabrielMagalhães1997,Centre-back,,,Arsenal,234,180,697,775,,2,10,x,,,,,,869792,3,2
+3/6/2025,01/03/2025,BRA x COL / ARG x BRA,2,world cup qualifiers,Brazil,Dorival Júnior,Gabriel Magalhães,19/12/1997,GabrielMagalhães1997,Centre-back,,,Arsenal,1878,90,725,70,,1,5,x,,,,,,869792,22,1
+5/10/2024,01/06/2024,MEX x BRA (friendly) / EUA x BRA (friendly) / BRA x CRC / PAR x BRA / BRA x COL / URU x BRA,6,continental tournament,Brazil,Dorival Júnior,Andreas Pereira,01/01/1996,AndreasPereira1996,Midfielder,,,Fulham,545,61,746,74,,1,17,x,,,,,,285949,7,1
+5/10/2024,01/06/2024,MEX x BRA (friendly) / EUA x BRA (friendly) / BRA x CRC / PAR x BRA / BRA x COL / URU x BRA,6,continental tournament,Brazil,Dorival Júnior,Bruno Guimarães,16/11/1997,BrunoGuimarães1997,Midfielder,,,Newcastle,629,16,757,68,,5,83,x,,,,,,866469,7,1
+5/10/2024,01/06/2024,MEX x BRA (friendly) / EUA x BRA (friendly) / BRA x CRC / PAR x BRA / BRA x COL / URU x BRA,6,continental tournament,Brazil,Dorival Júnior,Douglas Luiz,09/05/1998,DouglasLuiz1998,Midfielder,,,Aston Villa,799,74,673,68,,1,17,x,,,,,,867887,9,1
+5/10/2024,01/06/2024,MEX x BRA (friendly) / EUA x BRA (friendly) / BRA x CRC / PAR x BRA / BRA x COL / URU x BRA,6,continental tournament,Brazil,Dorival Júnior,Éderson,07/07/1999,Éderson1999,Midfielder,,,Atalanta,842,84,683,66,,1,17,x,,,,,,946888,12,1
+5/10/2024,01/06/2024,MEX x BRA (friendly) / EUA x BRA (friendly) / BRA x CRC / PAR x BRA / BRA x COL / URU x BRA,6,continental tournament,Brazil,Dorival Júnior,João Gomes,12/02/2001,JoãoGomes2001,Midfielder,,,Wolverhampton,657,15,675,63,,5,83,x,,,,,,1015267,8,1
+5/10/2024,01/06/2024,MEX x BRA (friendly) / EUA x BRA (friendly) / BRA x CRC / PAR x BRA / BRA x COL / URU x BRA,6,continental tournament,Brazil,Dorival Júnior,Lucas Paquetá,27/08/1997,LucasPaquetá1997,Midfielder,,,West Ham,706,29,691,65,,5,83,x,,,,,,839981,8,1
+5/10/2024,01/06/2024,MEX x BRA (friendly) / EUA x BRA (friendly) / BRA x CRC / PAR x BRA / BRA x COL / URU x BRA,6,continental tournament,Brazil,Dorival Júnior,Endrick,21/07/2006,Endrick2006,Forward,,,Palmeiras,837,29,712,72,,1,17,x,,,,,,1174937,12,1
+5/10/2024,01/06/2024,MEX x BRA (friendly) / EUA x BRA (friendly) / BRA x CRC / PAR x BRA / BRA x COL / URU x BRA,6,continental tournament,Brazil,Dorival Júnior,Evanilson,06/10/1999,Evanilson1999,Forward,,,Porto,422,61,702,67,,1,17,x,,,,,,998490,5,1
+5/10/2024,01/06/2024,MEX x BRA (friendly) / EUA x BRA (friendly) / BRA x CRC / PAR x BRA / BRA x COL / URU x BRA,6,continental tournament,Brazil,Dorival Júnior,Gabriel Martinelli,18/06/2001,GabrielMartinelli2001,Forward,,,Arsenal,282,61,659,69,,1,17,x,,,,,,922573,10,1
+5/10/2024,01/06/2024,MEX x BRA (friendly) / EUA x BRA (friendly) / BRA x CRC / PAR x BRA / BRA x COL / URU x BRA,6,continental tournament,Brazil,Dorival Júnior,Pepê,24/02/1997,Pepê1997,Forward,Midfielder,Full-back,Porto,680,29,739,65,,0,0,x,,,,,,882664,8,1
+5/10/2024,01/06/2024,MEX x BRA (friendly) / EUA x BRA (friendly) / BRA x CRC / PAR x BRA / BRA x COL / URU x BRA,6,continental tournament,Brazil,Dorival Júnior,Raphinha,14/12/1996,Raphinha1996,Forward,,,Barcelona,417,0,75,,,4,67,x,,,,,,831005,7,0
+5/10/2024,01/06/2024,MEX x BRA (friendly) / EUA x BRA (friendly) / BRA x CRC / PAR x BRA / BRA x COL / URU x BRA,6,continental tournament,Brazil,Dorival Júnior,Rodrygo,09/01/2001,Rodrygo2001,Forward,,,Real Madrid,479,0,72,,,5,83,x,,,,,,910536,6,0
+5/10/2024,01/06/2024,MEX x BRA (friendly) / EUA x BRA (friendly) / BRA x CRC / PAR x BRA / BRA x COL / URU x BRA,6,continental tournament,Brazil,Dorival Júnior,Savinho,10/04/2004,Savinho2004,Forward,,,Girona,423,74,72,73,,2,33,x,,,,,,1046795,5,1
+5/10/2024,01/06/2024,MEX x BRA (friendly) / EUA x BRA (friendly) / BRA x CRC / PAR x BRA / BRA x COL / URU x BRA,6,continental tournament,Brazil,Dorival Júnior,Vinícius Júnior,12/07/2000,ViníciusJúnior2000,Forward,,,Real Madrid,516,16,73,74,,4,67,x,,,,,,868812,8,1
+8/23/2024,01/09/2024,BRA x EQU / PAR x BRA,2,world cup qualifiers,Brazil,Dorival Júnior,Alisson,02/10/1992,Alisson1992,Goalkeeper,,,Liverpool,90,360,71,72,,2,10,x,,,,,,243609,1,4
+8/23/2024,01/09/2024,BRA x EQU / PAR x BRA,2,world cup qualifiers,Brazil,Dorival Júnior,Bento,10/06/1999,Bento1999,Goalkeeper,,,Al-Nassr,360,0,695,,,0,0,x,,,,,,1016104,4,0
+8/23/2024,01/09/2024,BRA x EQU / PAR x BRA,2,world cup qualifiers,Brazil,Dorival Júnior,Ederson,17/08/1993,Ederson1993,Goalkeeper,,,Manchester City,180,0,715,,,0,0,x,,,,,,254491,2,0
+8/23/2024,01/09/2024,BRA x EQU / PAR x BRA,2,world cup qualifiers,Brazil,Dorival Júnior,Danilo,15/07/1991,Danilo1991,Full-back,Centre-back,,Juventus,15,0,63,,,2,10,x,,,,,,1064039,1,0
+8/23/2024,01/09/2024,BRA x EQU / PAR x BRA,2,world cup qualifiers,Brazil,Dorival Júnior,Yan Couto,03/06/2002,YanCouto2002,Full-back,,,Borussia Dortmund,31,0,71,,,0,0,x,x,,,,,1002813,1,0
+8/23/2024,01/09/2024,BRA x EQU / PAR x BRA,2,world cup qualifiers,Brazil,Dorival Júnior,William,03/04/1995,William1995,Full-back,,,Cruzeiro,855,0,737,,,0,0,,,,x,,,604274,10,0
+8/23/2024,01/09/2024,BRA x EQU / PAR x BRA,2,world cup qualifiers,Brazil,Dorival Júnior,Guilherme Arana,14/04/1997,GuilhermeArana1997,Full-back,,,Atlético-MG,778,180,741,735,,2,10,x,,,,,,1127439,9,2
+8/23/2024,01/09/2024,BRA x EQU / PAR x BRA,2,world cup qualifiers,Brazil,Dorival Júnior,Wendell,20/07/1993,Wendell1993,Full-back,,,Porto,0,176,,64,,0,0,x,,,,,,335033,0,2
+8/25/2025,01/09/2025,BRA x CHI / BOL x BRA,2,world cup qualifiers,Brazil,Carlo Ancelotti,Gabriel Magalhães,19/12/1997,GabrielMagalhães1997,Centre-back,,,Arsenal,271,90,725,73,,1,5,x,,,,,,869792,4,1
+10/1/2025,01/10/2025,COR x BRA / JAP x BRA,2,friendly,Brazil,Carlo Ancelotti,Gabriel Magalhães,19/12/1997,GabrielMagalhães1997,Centre-back,,,Arsenal,454,90,727,71,,1,5,x,,,,,,869792,6,1
+11/3/2025,01/11/2025,SEN x BRA / TUN x BRA,2,friendly,Brazil,Carlo Ancelotti,Gabriel Magalhães,19/12/1997,GabrielMagalhães1997,Centre-back,,,Arsenal,362,64,766,69,,1,5,x,,,,,,869792,5,1
+3/16/2026,01/03/2026,BRA x FRA / BRA x CRO,2,friendly,Brazil,Carlo Ancelotti,Gabriel Magalhães,19/12/1997,GabrielMagalhães1997,Centre-back,,,Arsenal,1537,0,725,,1,0,0,x,,,,,,869792,19,0
+3/3/2023,01/03/2023,MAR x BRA,1,friendly,Brazil,Ramon Menezes,Ibañez,23/11/1998,Ibañez1998,Centre-back,,,Roma,1080,0,713,,,1,10,x,,,,,,888949,14,0
+8/23/2024,01/09/2024,BRA x EQU / PAR x BRA,2,world cup qualifiers,Brazil,Dorival Júnior,André,16/07/2001,André2001,Midfielder,,,Fluminense,893,0,712,,,2,10,x,,,,,,1035996,10,0
+8/23/2024,01/09/2024,BRA x EQU / PAR x BRA,2,world cup qualifiers,Brazil,Dorival Júnior,Bruno Guimarães,16/11/1997,BrunoGuimarães1997,Midfielder,,,Newcastle,90,335,74,728,,2,10,x,,,,,,866469,1,4
+8/23/2024,01/09/2024,BRA x EQU / PAR x BRA,2,world cup qualifiers,Brazil,Dorival Júnior,Gerson,20/05/1997,Gerson1997,Midfielder,,,Flamengo,967,0,708,,,0,0,x,,,,,,611876,12,0
+8/23/2024,01/09/2024,BRA x EQU / PAR x BRA,2,world cup qualifiers,Brazil,Dorival Júnior,João Gomes,12/02/2001,JoãoGomes2001,Midfielder,,,Wolverhampton,84,327,66,668,,0,0,x,,,,,,1015267,1,4
+8/23/2024,01/09/2024,BRA x EQU / PAR x BRA,2,world cup qualifiers,Brazil,Dorival Júnior,Lucas Paquetá,27/08/1997,LucasPaquetá1997,Midfielder,,,West Ham,74,295,68,74,,2,10,x,,,,,,839981,1,4
+8/23/2024,01/09/2024,BRA x EQU / PAR x BRA,2,world cup qualifiers,Brazil,Dorival Júnior,Rodrygo,09/01/2001,Rodrygo2001,Midfielder,Forward,,Real Madrid,166,329,76,70,,2,10,x,,,,,,910536,2,4
+8/23/2024,01/09/2024,BRA x EQU / PAR x BRA,2,world cup qualifiers,Brazil,Dorival Júnior,Endrick,21/07/2006,Endrick2006,Forward,,,Real Madrid,0,130,,653,,1,5,x,,,,,,1174937,0,4
+8/23/2024,01/09/2024,BRA x EQU / PAR x BRA,2,world cup qualifiers,Brazil,Dorival Júnior,Estêvão,24/04/2007,Estêvão2007,Forward,,,Palmeiras,500,0,701,,,0,0,x,,,,,,1597265,7,0
+8/23/2024,01/09/2024,BRA x EQU / PAR x BRA,2,world cup qualifiers,Brazil,Dorival Júnior,Luiz Henrique,02/01/2001,LuizHenrique2001,Forward,,,Botafogo,887,0,728,,,1,5,x,,,,,,1035995,12,0
+8/23/2024,01/09/2024,BRA x EQU / PAR x BRA,2,world cup qualifiers,Brazil,Dorival Júnior,João Pedro,26/09/2001,JoãoPedro2001,Forward,,,Brighton,82,0,71,,,0,0,x,,,,,,975079,1,0
+8/23/2024,01/09/2024,BRA x EQU / PAR x BRA,2,world cup qualifiers,Brazil,Dorival Júnior,Pedro,20/06/1997,Pedro1997,Forward,,,Flamengo,708,0,723,,,0,0,x,x,,,,,840219,9,0
+8/23/2024,01/09/2024,BRA x EQU / PAR x BRA,2,world cup qualifiers,Brazil,Dorival Júnior,Lucas Moura,13/08/1992,LucasMoura1992,Forward,,,São Paulo,882,0,738,,,0,0,,,,x,,,149710,11,0
+8/23/2024,01/09/2024,BRA x EQU / PAR x BRA,2,world cup qualifiers,Brazil,Dorival Júnior,Vinícius Júnior,12/07/2000,ViníciusJúnior2000,Forward,,,Real Madrid,176,251,72,72,,2,10,x,,,,,,868812,2,3
+9/27/2024,01/10/2024,CHI x BRA / BRA x PER,2,world cup qualifiers,Brazil,Dorival Júnior,Bento,10/06/1999,Bento1999,Goalkeeper,,,Al-Nassr,450,0,688,,,0,0,x,,,,,,1016104,5,0
+9/27/2024,01/10/2024,CHI x BRA / BRA x PER,2,world cup qualifiers,Brazil,Dorival Júnior,Ederson,17/08/1993,Ederson1993,Goalkeeper,,,Manchester City,270,180,713,70,,2,10,x,,,,,,254491,3,2
+9/27/2024,01/10/2024,CHI x BRA / BRA x PER,2,world cup qualifiers,Brazil,Dorival Júnior,Alisson,02/10/1992,Alisson1992,Goalkeeper,,,Liverpool,180,0,65,,,0,0,x,x,,,,,243609,2,0
+9/27/2024,01/10/2024,CHI x BRA / BRA x PER,2,world cup qualifiers,Brazil,Dorival Júnior,Weverton,13/12/1987,Weverton1987,Goalkeeper,,,Palmeiras,180,0,755,,,0,0,,,,x,,,243529,2,0
+9/27/2024,01/10/2024,CHI x BRA / BRA x PER,2,world cup qualifiers,Brazil,Dorival Júnior,Danilo,15/07/1991,Danilo1991,Full-back,Centre-back,,Juventus,0,0,,,,1,5,x,,,,,,1064039,0,0
+9/27/2024,01/10/2024,CHI x BRA / BRA x PER,2,world cup qualifiers,Brazil,Dorival Júnior,Vanderson,21/06/2001,Vanderson2001,Full-back,,,Monaco,176,90,82,73,,1,5,x,,,,,,1090694,2,1
+9/27/2024,01/10/2024,CHI x BRA / BRA x PER,2,world cup qualifiers,Brazil,Dorival Júnior,Abner,27/05/2000,Abner2000,Full-back,,,Lyon,155,175,755,695,,2,10,x,,,,,,973838,2,2
+9/27/2024,01/10/2024,CHI x BRA / BRA x PER,2,world cup qualifiers,Brazil,Dorival Júnior,Guilherme Arana,14/04/1997,GuilhermeArana1997,Full-back,,,Atlético-MG,265,0,693,,,0,0,x,x,,,,,1127439,3,0
+9/27/2024,01/10/2024,CHI x BRA / BRA x PER,2,world cup qualifiers,Brazil,Dorival Júnior,Alex Telles,15/12/1992,AlexTelles1992,Full-back,,,Botafogo,167,0,677,,,0,0,,,,x,,,312110,4,0
+5/28/2023,01/06/2023,BRA x GUI / BRA x SEN,2,friendly,Brazil,Ramon Menezes,Ibañez,23/11/1998,Ibañez1998,Centre-back,,,Roma,832,0,694,,,0,0,x,,,,,,888949,11,0
+8/18/2023,01/09/2023,BRA x BOL / PER x BRA,2,world cup qualifiers,Brazil,Fernando Diniz,Ibañez,23/11/1998,Ibañez1998,Centre-back,,,Al-Ahli,333,13,69,66,,0,0,x,,,,,,888949,5,1
+3/16/2026,01/03/2026,BRA x FRA / BRA x CRO,2,friendly,Brazil,Carlo Ancelotti,Ibañez,23/11/1998,Ibañez1998,Centre-back,,,Al-Ahli,1863,80,736,67,,1,5,x,,,,,,888949,22,2
+11/1/2024,01/11/2024,VEN x BRA / BRA x URU,2,world cup qualifiers,Brazil,Dorival Júnior,Léo Ortiz,03/01/1996,LéoOrtiz1996,Centre-back,,,Flamengo,332,0,67,,,0,0,,,,x,,,869643,4,0
+3/6/2025,01/03/2025,BRA x COL / ARG x BRA,2,world cup qualifiers,Brazil,Dorival Júnior,Léo Ortiz,03/01/1996,LéoOrtiz1996,Centre-back,,,Flamengo,838,46,73,62,,0,0,x,,,,,,869643,11,2
+5/26/2025,01/06/2025,EQU x BRA / BRA x PAR,2,world cup qualifiers,Brazil,Carlo Ancelotti,Léo Ortiz,03/01/1996,LéoOrtiz1996,Centre-back,,,Flamengo,1183,0,729,,,0,0,x,,,,,,869643,14,0
+9/27/2024,01/10/2024,CHI x BRA / BRA x PER,2,world cup qualifiers,Brazil,Dorival Júnior,André,16/07/2001,André2001,Midfielder,,,Wolverhampton,167,56,715,65,,1,5,x,,,,,,1035996,2,2
+9/27/2024,01/10/2024,CHI x BRA / BRA x PER,2,world cup qualifiers,Brazil,Dorival Júnior,Bruno Guimarães,16/11/1997,BrunoGuimarães1997,Midfielder,,,Newcastle,177,124,67,73,,1,5,x,,,,,,866469,2,2
+9/27/2024,01/10/2024,CHI x BRA / BRA x PER,2,world cup qualifiers,Brazil,Dorival Júnior,Gerson,20/05/1997,Gerson1997,Midfielder,,,Flamengo,360,135,77,71,,1,5,x,,,,,,611876,4,2
+9/27/2024,01/10/2024,CHI x BRA / BRA x PER,2,world cup qualifiers,Brazil,Dorival Júnior,Lucas Paquetá,27/08/1997,LucasPaquetá1997,Midfielder,,,West Ham,148,45,64,64,,1,5,x,,,,,,839981,3,1
+9/27/2024,01/10/2024,CHI x BRA / BRA x PER,2,world cup qualifiers,Brazil,Dorival Júnior,Rodrygo,09/01/2001,Rodrygo2001,Midfielder,Forward,,Real Madrid,294,159,778,705,,2,10,x,,,,,,910536,4,2
+9/27/2024,01/10/2024,CHI x BRA / BRA x PER,2,world cup qualifiers,Brazil,Dorival Júnior,Andreas Pereira,01/01/1996,AndreasPereira1996,Midfielder,,,Fulham,153,21,695,70,,0,0,,,,x,,,285949,2,1
+9/27/2024,01/10/2024,CHI x BRA / BRA x PER,2,world cup qualifiers,Brazil,Dorival Júnior,Vinícius Júnior,12/07/2000,ViníciusJúnior2000,Forward,,,Real Madrid,304,0,74,,,0,0,x,x,,,,,868812,4,0
+9/27/2024,01/10/2024,CHI x BRA / BRA x PER,2,world cup qualifiers,Brazil,Dorival Júnior,Endrick,21/07/2006,Endrick2006,Forward,,,Real Madrid,42,26,73,64,,0,0,x,,,,,,1174937,4,2
+9/27/2024,01/10/2024,CHI x BRA / BRA x PER,2,world cup qualifiers,Brazil,Dorival Júnior,Igor Jesus,25/02/2001,IgorJesus2001,Forward,,,Botafogo,275,154,70,74,,2,10,x,,,,,,981619,4,2
+9/27/2024,01/10/2024,CHI x BRA / BRA x PER,2,world cup qualifiers,Brazil,Dorival Júnior,Gabriel Martinelli,18/06/2001,GabrielMartinelli2001,Forward,,,Arsenal,276,10,683,65,,0,0,x,,,,,,922573,4,1
+9/27/2024,01/10/2024,CHI x BRA / BRA x PER,2,world cup qualifiers,Brazil,Dorival Júnior,Luiz Henrique,02/01/2001,LuizHenrique2001,Forward,,,Botafogo,296,43,695,79,,0,0,x,,,,,,1035995,4,2
+9/27/2024,01/10/2024,CHI x BRA / BRA x PER,2,world cup qualifiers,Brazil,Dorival Júnior,Raphinha,14/12/1996,Raphinha1996,Forward,,,Barcelona,360,168,735,765,,2,10,x,,,,,,831005,4,2
+9/27/2024,01/10/2024,CHI x BRA / BRA x PER,2,world cup qualifiers,Brazil,Dorival Júnior,Savinho,10/04/2004,Savinho2004,Forward,,,Manchester City,257,137,74,69,,2,10,x,,,,,,1046795,4,2
+11/1/2024,01/11/2024,VEN x BRA / BRA x URU,2,world cup qualifiers,Brazil,Dorival Júnior,Weverton,13/12/1987,Weverton1987,Goalkeeper,,,Palmeiras,180,0,65,,,0,0,x,,,,,,243529,2,0
+11/1/2024,01/11/2024,VEN x BRA / BRA x URU,2,world cup qualifiers,Brazil,Dorival Júnior,Ederson,17/08/1993,Ederson1993,Goalkeeper,,,Manchester City,180,180,69,665,,2,10,x,,,,,,254491,2,2
+11/1/2024,01/11/2024,VEN x BRA / BRA x URU,2,world cup qualifiers,Brazil,Dorival Júnior,Bento,10/06/1999,Bento1999,Goalkeeper,,,Al-Nassr,450,0,694,,,0,0,x,,,,,,1016104,5,0
+11/1/2024,01/11/2024,VEN x BRA / BRA x URU,2,world cup qualifiers,Brazil,Dorival Júnior,Danilo,15/07/1991,Danilo1991,Full-back,Centre-back,,Juventus,0,0,,,,1,5,x,,,,,,1064039,0,0
+11/1/2024,01/11/2024,VEN x BRA / BRA x URU,2,world cup qualifiers,Brazil,Dorival Júnior,Vanderson,21/06/2001,Vanderson2001,Full-back,,,Monaco,139,90,65,64,,1,5,x,,,,,,1090694,2,1
+11/1/2024,01/11/2024,VEN x BRA / BRA x URU,2,world cup qualifiers,Brazil,Dorival Júnior,Abner,27/05/2000,Abner2000,Full-back,,,Lyon,90,147,76,645,,2,10,x,,,,,,973838,1,2
+11/1/2024,01/11/2024,VEN x BRA / BRA x URU,2,world cup qualifiers,Brazil,Dorival Júnior,Guilherme Arana,14/04/1997,GuilhermeArana1997,Full-back,,,Atlético-MG,265,0,703,,,0,0,x,x,,,,,1127439,3,0
+11/1/2024,01/11/2024,VEN x BRA / BRA x URU,2,world cup qualifiers,Brazil,Dorival Júnior,Alex Telles,15/12/1992,AlexTelles1992,Full-back,,,Botafogo,246,0,71,,,0,0,,,,x,,,312110,3,0
+3/16/2026,01/03/2026,BRA x FRA / BRA x CRO,2,friendly,Brazil,Carlo Ancelotti,Leo Pereira,31/01/1996,LeoPereira1996,Centre-back,,,Flamengo,1656,180,726,665,9,2,10,x,,,,x,2,358548,19,2
+3/11/2024,01/03/2024,ING x BRA / ESP x BRA,2,friendly,Brazil,Dorival Júnior,Lucas Beraldo,24/11/2003,LucasBeraldo2003,Centre-back,,,PSG,1351,180,699,635,,2,10,x,,,,,,1108441,17,2
+5/10/2024,01/06/2024,MEX x BRA (friendly) / EUA x BRA (friendly) / BRA x CRC / PAR x BRA / BRA x COL / URU x BRA,6,continental tournament,Brazil,Dorival Júnior,Lucas Beraldo,24/11/2003,LucasBeraldo2003,Centre-back,,,PSG,448,0,685,,,1,17,x,,,,,,1108441,6,0
+8/23/2024,01/09/2024,BRA x EQU / PAR x BRA,2,world cup qualifiers,Brazil,Dorival Júnior,Lucas Beraldo,24/11/2003,LucasBeraldo2003,Centre-back,,,PSG,90,0,72,,,0,0,x,,,,,,1108441,1,0
+9/27/2024,01/10/2024,CHI x BRA / BRA x PER,2,world cup qualifiers,Brazil,Dorival Júnior,Lucas Beraldo,24/11/2003,LucasBeraldo2003,Centre-back,,,PSG,264,0,687,,,0,0,,,,x,,,1108441,4,0
+11/1/2024,01/11/2024,VEN x BRA / BRA x URU,2,world cup qualifiers,Brazil,Dorival Júnior,André,16/07/2001,André2001,Midfielder,,,Wolverhampton,46,9,68,65,,0,0,x,,,,,,1035996,2,1
+11/1/2024,01/11/2024,VEN x BRA / BRA x URU,2,world cup qualifiers,Brazil,Dorival Júnior,Andreas Pereira,01/01/1996,AndreasPereira1996,Midfielder,,,Fulham,147,0,645,,,0,0,x,,,,,,285949,2,0
+11/1/2024,01/11/2024,VEN x BRA / BRA x URU,2,world cup qualifiers,Brazil,Dorival Júnior,Bruno Guimarães,16/11/1997,BrunoGuimarães1997,Midfielder,,,Newcastle,202,168,707,67,,2,10,x,,,,,,866469,3,2
+11/1/2024,01/11/2024,VEN x BRA / BRA x URU,2,world cup qualifiers,Brazil,Dorival Júnior,Gerson,20/05/1997,Gerson1997,Midfielder,,,Flamengo,270,176,767,715,,2,10,x,,,,,,611876,3,2
+11/1/2024,01/11/2024,VEN x BRA / BRA x URU,2,world cup qualifiers,Brazil,Dorival Júnior,Lucas Paquetá,27/08/1997,LucasPaquetá1997,Midfielder,,,West Ham,106,31,64,68,,0,0,x,,,,,,839981,2,2
+11/1/2024,01/11/2024,VEN x BRA / BRA x URU,2,world cup qualifiers,Brazil,Dorival Júnior,Raphinha,14/12/1996,Raphinha1996,Midfielder,,,Barcelona,232,180,877,725,,2,10,x,,,,,,831005,3,2
+11/1/2024,01/11/2024,VEN x BRA / BRA x URU,2,world cup qualifiers,Brazil,Dorival Júnior,Estêvão,24/04/2007,Estêvão2007,Forward,,,Palmeiras,177,18,74,62,,0,0,x,,,,,,1597265,2,2
+11/1/2024,01/11/2024,VEN x BRA / BRA x URU,2,world cup qualifiers,Brazil,Dorival Júnior,Igor Jesus,25/02/2001,IgorJesus2001,Forward,,,Botafogo,241,126,757,67,,2,10,x,,,,,,981619,3,2
+11/1/2024,01/11/2024,VEN x BRA / BRA x URU,2,world cup qualifiers,Brazil,Dorival Júnior,Luiz Henrique,02/01/2001,LuizHenrique2001,Forward,,,Botafogo,250,54,783,66,,0,0,x,,,,,,1035995,3,2
+11/1/2024,01/11/2024,VEN x BRA / BRA x URU,2,world cup qualifiers,Brazil,Dorival Júnior,Rodrygo,09/01/2001,Rodrygo2001,Forward,,,Real Madrid,112,0,66,,,0,0,x,x,,,,,910536,2,0
+11/1/2024,01/11/2024,VEN x BRA / BRA x URU,2,world cup qualifiers,Brazil,Dorival Júnior,Gabriel Martinelli,18/06/2001,GabrielMartinelli2001,Forward,,,Arsenal,263,40,703,66,,0,0,,,,x,,,922573,4,2
+11/1/2024,01/11/2024,VEN x BRA / BRA x URU,2,world cup qualifiers,Brazil,Dorival Júnior,Savinho,10/04/2004,Savinho2004,Forward,,,Manchester City,316,141,792,72,,2,10,x,,,,,,1046795,4,2
+11/1/2024,01/11/2024,VEN x BRA / BRA x URU,2,world cup qualifiers,Brazil,Dorival Júnior,Vinícius Júnior,12/07/2000,ViníciusJúnior2000,Forward,,,Real Madrid,270,180,803,70,,2,10,x,,,,,,868812,3,2
+3/6/2025,01/03/2025,BRA x COL / ARG x BRA,2,world cup qualifiers,Brazil,Dorival Júnior,Alisson,02/10/1992,Alisson1992,Goalkeeper,,,Liverpool,1620,78,713,68,,1,5,x,x,,,,,243609,18,1
+3/6/2025,01/03/2025,BRA x COL / ARG x BRA,2,world cup qualifiers,Brazil,Dorival Júnior,Bento,10/06/1999,Bento1999,Goalkeeper,,,Al-Nassr,1440,102,71,64,,1,5,x,,,,,,1016104,16,2
+3/6/2025,01/03/2025,BRA x COL / ARG x BRA,2,world cup qualifiers,Brazil,Dorival Júnior,Ederson,17/08/1993,Ederson1993,Goalkeeper,,,Manchester City,1260,0,709,,,0,0,x,x,,,,,254491,14,0
+3/6/2025,01/03/2025,BRA x COL / ARG x BRA,2,world cup qualifiers,Brazil,Dorival Júnior,Weverton,13/12/1987,Weverton1987,Goalkeeper,,,Palmeiras,1440,0,703,,,0,0,,,,x,,,243529,16,0
+3/6/2025,01/03/2025,BRA x COL / ARG x BRA,2,world cup qualifiers,Brazil,Dorival Júnior,Lucas Perri,10/12/1997,LucasPerri1997,Goalkeeper,,,Lyon,1710,0,731,,,0,0,,,,x,,,871290,19,0
+3/6/2025,01/03/2025,BRA x COL / ARG x BRA,2,world cup qualifiers,Brazil,Dorival Júnior,Danilo,15/07/1991,Danilo1991,Full-back,Centre-back,,Flamengo,283,0,668,,,0,0,x,x,,,,,1064039,6,0
+3/6/2025,01/03/2025,BRA x COL / ARG x BRA,2,world cup qualifiers,Brazil,Dorival Júnior,Alex Sandro,26/01/1991,AlexSandro1991,Full-back,Centre-back,,Flamengo,435,0,717,,,0,0,,,,x,,,84854,7,0
+5/26/2025,01/06/2025,EQU x BRA / BRA x PAR,2,world cup qualifiers,Brazil,Carlo Ancelotti,Lucas Beraldo,24/11/2003,LucasBeraldo2003,Centre-back,,,PSG,684,16,695,65,,0,0,x,,,,,,1108441,10,1
+3/6/2025,01/03/2025,BRA x COL / ARG x BRA,2,world cup qualifiers,Brazil,Dorival Júnior,Guilherme Arana,14/04/1997,GuilhermeArana1997,Full-back,,,Atlético-MG,1019,180,72,65,,2,10,x,,,,,,1127439,14,2
+10/1/2025,01/10/2025,COR x BRA / JAP x BRA,2,friendly,Brazil,Carlo Ancelotti,Lucas Beraldo,24/11/2003,LucasBeraldo2003,Centre-back,,,PSG,160,90,815,66,,1,5,x,,,,,,1108441,2,1
+3/3/2023,01/03/2023,MAR x BRA,1,friendly,Brazil,Ramon Menezes,Marquinhos,14/05/1994,Marquinhos1994,Centre-back,,,PSG,1080,0,692,,,0,0,x,,,,,,155995,13,0
+5/28/2023,01/06/2023,BRA x GUI / BRA x SEN,2,friendly,Brazil,Ramon Menezes,Marquinhos,14/05/1994,Marquinhos1994,Centre-back,,,PSG,718,180,709,675,,2,10,x,,,,,,155995,8,2
+3/6/2025,01/03/2025,BRA x COL / ARG x BRA,2,world cup qualifiers,Brazil,Dorival Júnior,Vanderson,21/06/2001,Vanderson2001,Full-back,,,Monaco,1640,79,705,65,,1,5,x,,,,,,1090694,20,1
+3/6/2025,01/03/2025,BRA x COL / ARG x BRA,2,world cup qualifiers,Brazil,Dorival Júnior,Wesley,06/09/2003,Wesley2003,Full-back,,,Flamengo,883,101,732,675,,1,5,x,,,,,,1134200,12,2
+3/6/2025,01/03/2025,BRA x COL / ARG x BRA,2,world cup qualifiers,Brazil,Dorival Júnior,André,16/07/2001,André2001,Midfielder,,,Wolverhampton,1374,96,687,67,,1,5,x,,,,,,1035996,18,2
+3/6/2025,01/03/2025,BRA x COL / ARG x BRA,2,world cup qualifiers,Brazil,Dorival Júnior,Bruno Guimarães,16/11/1997,BrunoGuimarães1997,Midfielder,,,Newcastle,1695,78,721,70,,1,5,x,,,,,,866469,21,1
+3/6/2025,01/03/2025,BRA x COL / ARG x BRA,2,world cup qualifiers,Brazil,Dorival Júnior,Gerson,20/05/1997,Gerson1997,Midfielder,,,Flamengo,757,28,724,68,,1,5,x,,,,,,611876,10,1
+3/6/2025,01/03/2025,BRA x COL / ARG x BRA,2,world cup qualifiers,Brazil,Dorival Júnior,Joelinton,14/08/1996,Joelinton1996,Midfielder,,,Newcastle,1230,107,687,63,,1,5,x,,,,,,560128,16,2
+3/6/2025,01/03/2025,BRA x COL / ARG x BRA,2,world cup qualifiers,Brazil,Dorival Júnior,Matheus Cunha,27/05/1999,MatheusCunha1999,Midfielder,Forward,,Wolverhampton,1468,99,76,695,,1,5,x,,,,,,886363,17,2
+3/6/2025,01/03/2025,BRA x COL / ARG x BRA,2,world cup qualifiers,Brazil,Dorival Júnior,Neymar,05/02/1992,Neymar1992,Midfielder,Forward,,Santos,508,0,773,,,0,0,x,x,,,,,124712,7,0
+3/6/2025,01/03/2025,BRA x COL / ARG x BRA,2,world cup qualifiers,Brazil,Dorival Júnior,Endrick,21/07/2006,Endrick2006,Forward,,,Real Madrid,378,45,691,66,,0,0,,,,x,,,1174937,17,1
+3/6/2025,01/03/2025,BRA x COL / ARG x BRA,2,world cup qualifiers,Brazil,Dorival Júnior,Estêvão,24/04/2007,Estêvão2007,Forward,,,Palmeiras,1172,0,74,,,0,0,x,,,,,,1597265,15,0
+3/6/2025,01/03/2025,BRA x COL / ARG x BRA,2,world cup qualifiers,Brazil,Dorival Júnior,João Pedro,26/09/2001,JoãoPedro2001,Forward,,,Brighton,1352,60,718,65,,1,5,x,,,,,,975079,18,1
+3/6/2025,01/03/2025,BRA x COL / ARG x BRA,2,world cup qualifiers,Brazil,Dorival Júnior,Raphinha,14/12/1996,Raphinha1996,Forward,,,Barcelona,1865,180,787,74,,2,10,x,,,,,,831005,23,2
+3/6/2025,01/03/2025,BRA x COL / ARG x BRA,2,world cup qualifiers,Brazil,Dorival Júnior,Rodrygo,09/01/2001,Rodrygo2001,Forward,Midfielder,,Real Madrid,1715,123,767,645,,2,10,x,,,,,,910536,24,2
+3/6/2025,01/03/2025,BRA x COL / ARG x BRA,2,world cup qualifiers,Brazil,Dorival Júnior,Savinho,10/04/2004,Savinho2004,Forward,,,Manchester City,1333,33,709,67,,0,0,x,,,,,,1046795,21,2
+3/6/2025,01/03/2025,BRA x COL / ARG x BRA,2,world cup qualifiers,Brazil,Dorival Júnior,Vinícius Júnior,12/07/2000,ViníciusJúnior2000,Forward,,,Real Madrid,1609,179,728,745,,2,10,x,,,,,,868812,20,2
+5/26/2025,01/06/2025,EQU x BRA / BRA x PAR,2,world cup qualifiers,Brazil,Carlo Ancelotti,Alisson,02/10/1992,Alisson1992,Goalkeeper,,,Liverpool,630,180,724,71,,2,10,x,,,,,,243609,7,2
+5/26/2025,01/06/2025,EQU x BRA / BRA x PAR,2,world cup qualifiers,Brazil,Carlo Ancelotti,Bento,10/06/1999,Bento1999,Goalkeeper,,,Al-Nassr,990,0,684,,,0,0,x,,,,,,1016104,11,0
+5/26/2025,01/06/2025,EQU x BRA / BRA x PAR,2,world cup qualifiers,Brazil,Carlo Ancelotti,Hugo Souza,31/01/1999,HugoSouza1999,Goalkeeper,,,Corinthians,990,0,699,,,0,0,x,,,,,,950454,11,0
+5/26/2025,01/06/2025,EQU x BRA / BRA x PAR,2,world cup qualifiers,Brazil,Carlo Ancelotti,Alex Sandro,26/01/1991,AlexSandro1991,Full-back,Centre-back,,Flamengo,866,164,715,69,,2,10,x,,,,,,84854,11,2
+8/18/2023,01/09/2023,BRA x BOL / PER x BRA,2,world cup qualifiers,Brazil,Fernando Diniz,Marquinhos,14/05/1994,Marquinhos1994,Centre-back,,,PSG,235,180,683,725,,2,10,x,,,,,,155995,6,2
+9/23/2023,01/10/2023,BRA x VEN / URU x BRA,2,world cup qualifiers,Brazil,Fernando Diniz,Marquinhos,14/05/1994,Marquinhos1994,Centre-back,,,PSG,90,180,77,685,,2,10,x,,,,,,155995,1,2
+5/26/2025,01/06/2025,EQU x BRA / BRA x PAR,2,world cup qualifiers,Brazil,Carlo Ancelotti,Carlos Augusto,07/01/1999,CarlosAugusto1999,Full-back,,,Inter de Milão,917,0,702,,,0,0,x,,,,,,929199,14,0
+5/26/2025,01/06/2025,EQU x BRA / BRA x PAR,2,world cup qualifiers,Brazil,Carlo Ancelotti,Danilo,15/07/1991,Danilo1991,Full-back,Centre-back,,Flamengo,228,0,67,,,0,0,x,,,,,,1064039,5,0
+11/6/2023,01/11/2023,COL x BRA / BRA x ARG,2,world cup qualifiers,Brazil,Fernando Diniz,Marquinhos,14/05/1994,Marquinhos1994,Centre-back,,,PSG,251,135,713,675,,2,10,x,,,,,,155995,3,2
+3/11/2024,01/03/2024,ING x BRA / ESP x BRA,2,friendly,Brazil,Dorival Júnior,Marquinhos,14/05/1994,Marquinhos1994,Centre-back,,,PSG,947,0,734,,,0,0,x,x,,,,,155995,12,0
+5/26/2025,01/06/2025,EQU x BRA / BRA x PAR,2,world cup qualifiers,Brazil,Carlo Ancelotti,Vanderson,21/06/2001,Vanderson2001,Full-back,,,Monaco,392,179,701,75,,2,10,x,,,,,,1090694,7,2
+5/26/2025,01/06/2025,EQU x BRA / BRA x PAR,2,world cup qualifiers,Brazil,Carlo Ancelotti,Wesley,06/09/2003,Wesley2003,Full-back,,,Flamengo,1045,0,732,,,0,0,x,,,,,,1134200,13,0
+5/26/2025,01/06/2025,EQU x BRA / BRA x PAR,2,world cup qualifiers,Brazil,Carlo Ancelotti,Andreas Pereira,01/01/1996,AndreasPereira1996,Midfielder,,,Fulham,501,1,664,,,0,0,x,,,,,,285949,8,1
+5/26/2025,01/06/2025,EQU x BRA / BRA x PAR,2,world cup qualifiers,Brazil,Carlo Ancelotti,Andrey Santos,03/05/2004,AndreySantos2004,Midfielder,,,Strasbourg,720,12,745,65,,0,0,x,,,,,,1105779,8,1
+5/26/2025,01/06/2025,EQU x BRA / BRA x PAR,2,world cup qualifiers,Brazil,Carlo Ancelotti,Bruno Guimarães,16/11/1997,BrunoGuimarães1997,Midfielder,,,Newcastle,851,179,723,75,,2,10,x,,,,,,866469,10,2
+5/26/2025,01/06/2025,EQU x BRA / BRA x PAR,2,world cup qualifiers,Brazil,Carlo Ancelotti,Casemiro,23/02/1992,Casemiro1992,Midfielder,,,Manchester United,845,180,76,74,,2,10,x,,,,,,122951,10,2
+5/26/2025,01/06/2025,EQU x BRA / BRA x PAR,2,world cup qualifiers,Brazil,Carlo Ancelotti,Éderson,07/07/1999,Éderson1999,Midfielder,,,Atalanta,562,0,701,,,0,0,x,,,,,,946888,8,0
+5/26/2025,01/06/2025,EQU x BRA / BRA x PAR,2,world cup qualifiers,Brazil,Carlo Ancelotti,Gerson,20/05/1997,Gerson1997,Midfielder,,,Flamengo,1019,89,726,67,,1,5,x,,,,,,611876,14,2
+5/26/2025,01/06/2025,EQU x BRA / BRA x PAR,2,world cup qualifiers,Brazil,Carlo Ancelotti,Antony,24/02/2000,Antony2000,Forward,,,Betis,1138,0,751,,,0,0,x,,,,,,958380,14,0
+5/26/2025,01/06/2025,EQU x BRA / BRA x PAR,2,world cup qualifiers,Brazil,Carlo Ancelotti,Estêvão,24/04/2007,Estêvão2007,Forward,,,Palmeiras,1306,64,708,67,,1,5,x,,,,,,1597265,17,1
+5/26/2025,01/06/2025,EQU x BRA / BRA x PAR,2,world cup qualifiers,Brazil,Carlo Ancelotti,Gabriel Martinelli,18/06/2001,GabrielMartinelli2001,Forward,,,Arsenal,1062,116,706,69,,1,5,x,,,,,,922573,13,2
+5/26/2025,01/06/2025,EQU x BRA / BRA x PAR,2,world cup qualifiers,Brazil,Carlo Ancelotti,Matheus Cunha,27/05/1999,MatheusCunha1999,Forward,Midfielder,,Wolverhampton,455,105,763,705,,1,5,x,,,,,,886363,7,2
+5/26/2025,01/06/2025,EQU x BRA / BRA x PAR,2,world cup qualifiers,Brazil,Carlo Ancelotti,Raphinha,14/12/1996,Raphinha1996,Forward,,,Barcelona,1220,90,772,76,,1,5,x,,,,,,831005,15,1
+5/26/2025,01/06/2025,EQU x BRA / BRA x PAR,2,world cup qualifiers,Brazil,Carlo Ancelotti,Richarlison,10/05/1997,Richarlison1997,Forward,,,Tottenham,404,76,658,625,,1,5,x,,,,,,840217,10,2
+5/26/2025,01/06/2025,EQU x BRA / BRA x PAR,2,world cup qualifiers,Brazil,Carlo Ancelotti,Vinícius Júnior,12/07/2000,ViníciusJúnior2000,Forward,,,Real Madrid,898,168,733,67,,2,10,x,,,,,,868812,12,2
+8/25/2025,01/09/2025,BRA x CHI / BOL x BRA,2,world cup qualifiers,Brazil,Carlo Ancelotti,Alisson,02/10/1992,Alisson1992,Goalkeeper,,,Liverpool,315,180,722,765,,2,10,x,,,,,,243609,4,2
+8/25/2025,01/09/2025,BRA x CHI / BOL x BRA,2,world cup qualifiers,Brazil,Carlo Ancelotti,Bento,10/06/1999,Bento1999,Goalkeeper,,,Al-Nassr,315,0,655,,,0,0,x,,,,,,1016104,5,0
+8/25/2025,01/09/2025,BRA x CHI / BOL x BRA,2,world cup qualifiers,Brazil,Carlo Ancelotti,Hugo Souza,31/01/1999,HugoSouza1999,Goalkeeper,,,Corinthians,1080,0,694,,,0,0,x,,,,,,950454,12,0
+5/10/2024,01/06/2024,MEX x BRA (friendly) / EUA x BRA (friendly) / BRA x CRC / PAR x BRA / BRA x COL / URU x BRA,6,continental tournament,Brazil,Dorival Júnior,Marquinhos,14/05/1994,Marquinhos1994,Centre-back,,,PSG,589,0,703,,,5,83,x,,,,,,155995,8,0
+8/25/2025,01/09/2025,BRA x CHI / BOL x BRA,2,world cup qualifiers,Brazil,Carlo Ancelotti,Caio Henrique,31/07/1997,CaioHenrique1997,Full-back,Midfielder,,Monaco,338,90,728,69,,1,5,x,,,,,,845170,9,1
+8/25/2025,01/09/2025,BRA x CHI / BOL x BRA,2,world cup qualifiers,Brazil,Carlo Ancelotti,Douglas Santos,22/03/1994,DouglasSantos1994,Full-back,,,Zenit,411,90,658,77,,1,5,x,,,,,,243583,9,1
+8/23/2024,01/09/2024,BRA x EQU / PAR x BRA,2,world cup qualifiers,Brazil,Dorival Júnior,Marquinhos,14/05/1994,Marquinhos1994,Centre-back,,,PSG,109,360,70,725,,2,10,x,,,,,,155995,2,4
+9/27/2024,01/10/2024,CHI x BRA / BRA x PER,2,world cup qualifiers,Brazil,Dorival Júnior,Marquinhos,14/05/1994,Marquinhos1994,Centre-back,,,PSG,249,180,74,69,,2,10,x,,,,,,155995,3,2
+11/1/2024,01/11/2024,VEN x BRA / BRA x URU,2,world cup qualifiers,Brazil,Dorival Júnior,Marquinhos,14/05/1994,Marquinhos1994,Centre-back,,,PSG,180,180,735,725,,2,10,x,,,,,,155995,2,2
+8/25/2025,01/09/2025,BRA x CHI / BOL x BRA,2,world cup qualifiers,Brazil,Carlo Ancelotti,Vitinho,23/07/1999,Vitinho1999,Full-back,,,Botafogo,1249,61,712,65,,1,5,,,,x,,,914477,16,1
+8/25/2025,01/09/2025,BRA x CHI / BOL x BRA,2,world cup qualifiers,Brazil,Carlo Ancelotti,Vanderson,21/06/2001,Vanderson2001,Full-back,,,Monaco,132,0,68,,,0,0,x,x,,,,,1090694,6,0
+8/25/2025,01/09/2025,BRA x CHI / BOL x BRA,2,world cup qualifiers,Brazil,Carlo Ancelotti,Wesley,06/09/2003,Wesley2003,Full-back,,,Roma,808,90,697,78,,1,5,x,,,,,,1134200,11,1
+8/25/2025,01/09/2025,BRA x CHI / BOL x BRA,2,world cup qualifiers,Brazil,Carlo Ancelotti,Andrey Santos,03/05/2004,AndreySantos2004,Midfielder,,,Chelsea,300,97,671,685,,1,5,x,,,,,,1105779,8,2
+8/25/2025,01/09/2025,BRA x CHI / BOL x BRA,2,world cup qualifiers,Brazil,Carlo Ancelotti,Bruno Guimarães,16/11/1997,BrunoGuimarães1997,Midfielder,,,Newcastle,450,180,71,805,,2,10,x,,,,,,866469,6,2
+8/25/2025,01/09/2025,BRA x CHI / BOL x BRA,2,world cup qualifiers,Brazil,Carlo Ancelotti,Casemiro,23/02/1992,Casemiro1992,Midfielder,,,Manchester United,236,66,695,73,,1,5,x,,,,,,122951,7,1
+8/25/2025,01/09/2025,BRA x CHI / BOL x BRA,2,world cup qualifiers,Brazil,Carlo Ancelotti,Joelinton,14/08/1996,Joelinton1996,Midfielder,,,Newcastle,381,0,634,,,0,0,x,x,,,,,560128,5,0
+8/25/2025,01/09/2025,BRA x CHI / BOL x BRA,2,world cup qualifiers,Brazil,Carlo Ancelotti,Lucas Paquetá,27/08/1997,LucasPaquetá1997,Midfielder,,,West Ham,180,109,77,71,,1,5,x,,,,,,839981,6,2
+8/25/2025,01/09/2025,BRA x CHI / BOL x BRA,2,world cup qualifiers,Brazil,Carlo Ancelotti,Jean Lucas,22/06/1998,JeanLucas1998,Midfielder,,,Bahia,1066,17,715,64,,0,0,,,,x,,,927975,13,1
+8/25/2025,01/09/2025,BRA x CHI / BOL x BRA,2,world cup qualifiers,Brazil,Carlo Ancelotti,Estêvão,24/04/2007,Estêvão2007,Forward,,,Chelsea,604,95,702,725,,1,5,x,,,,,,1597265,9,2
+8/25/2025,01/09/2025,BRA x CHI / BOL x BRA,2,world cup qualifiers,Brazil,Carlo Ancelotti,Gabriel Martinelli,18/06/2001,GabrielMartinelli2001,Forward,,,Arsenal,325,71,67,74,,1,5,x,,,,,,922573,6,1
+8/25/2025,01/09/2025,BRA x CHI / BOL x BRA,2,world cup qualifiers,Brazil,Carlo Ancelotti,João Pedro,26/09/2001,JoãoPedro2001,Forward,,,Chelsea,412,100,759,665,,1,5,x,,,,,,975079,7,2
+8/25/2025,01/09/2025,BRA x CHI / BOL x BRA,2,world cup qualifiers,Brazil,Carlo Ancelotti,Kaio Jorge,24/01/2002,KaioJorge2002,Forward,,,Cruzeiro,982,19,721,65,,0,0,x,,,,,,954888,14,1
+8/25/2025,01/09/2025,BRA x CHI / BOL x BRA,2,world cup qualifiers,Brazil,Carlo Ancelotti,Luiz Henrique,02/01/2001,LuizHenrique2001,Forward,,,Zenit,278,85,695,725,,1,5,x,,,,,,1035995,8,2
+8/25/2025,01/09/2025,BRA x CHI / BOL x BRA,2,world cup qualifiers,Brazil,Carlo Ancelotti,Matheus Cunha,27/05/1999,MatheusCunha1999,Forward,Midfielder,,Manchester United,315,0,68,,,0,0,x,x,,,,,886363,6,0
+8/25/2025,01/09/2025,BRA x CHI / BOL x BRA,2,world cup qualifiers,Brazil,Carlo Ancelotti,Samuel Lino,23/12/1999,SamuelLino1999,Forward,,,Flamengo,601,61,731,65,,1,5,,,,x,,,874705,10,1
+8/25/2025,01/09/2025,BRA x CHI / BOL x BRA,2,world cup qualifiers,Brazil,Carlo Ancelotti,Raphinha,14/12/1996,Raphinha1996,Forward,,,Barcelona,302,108,712,70,,1,5,x,,,,,,831005,6,2
+8/25/2025,01/09/2025,BRA x CHI / BOL x BRA,2,world cup qualifiers,Brazil,Carlo Ancelotti,Richarlison,10/05/1997,Richarlison1997,Forward,,,Tottenham,446,72,719,645,,1,5,x,,,,,,840217,7,2
+10/1/2025,01/10/2025,COR x BRA / JAP x BRA,2,friendly,Brazil,Carlo Ancelotti,Bento,10/06/1999,Bento1999,Goalkeeper,,,Al-Nassr,360,90,703,69,,1,5,x,,,,,,1016104,4,1
+10/1/2025,01/10/2025,COR x BRA / JAP x BRA,2,friendly,Brazil,Carlo Ancelotti,John,13/02/1996,John1996,Goalkeeper,,,Nottingham Forest,90,0,53,,,0,0,x,,,,,,840103,1,0
+10/1/2025,01/10/2025,COR x BRA / JAP x BRA,2,friendly,Brazil,Carlo Ancelotti,Hugo Souza,31/01/1999,HugoSouza1999,Goalkeeper,,,Corinthians,450,90,712,60,,1,5,x,,,,,,950454,5,1
+10/1/2025,01/10/2025,COR x BRA / JAP x BRA,2,friendly,Brazil,Carlo Ancelotti,Caio Henrique,31/07/1997,CaioHenrique1997,Full-back,,,Monaco,173,15,647,70,,0,0,x,,,,,,845170,4,1
+10/1/2025,01/10/2025,COR x BRA / JAP x BRA,2,friendly,Brazil,Carlo Ancelotti,Carlos Augusto,07/01/1999,CarlosAugusto1999,Full-back,,,Internazionale,209,95,67,655,,1,5,x,,,,,,929199,4,2
+10/1/2025,01/10/2025,COR x BRA / JAP x BRA,2,friendly,Brazil,Carlo Ancelotti,Douglas Santos,22/03/1994,DouglasSantos1994,Full-back,,,Zenit,270,70,717,70,,1,5,x,,,,,,243583,3,1
+3/6/2025,01/03/2025,BRA x COL / ARG x BRA,2,world cup qualifiers,Brazil,Dorival Júnior,Marquinhos,14/05/1994,Marquinhos1994,Centre-back,,,PSG,1494,180,744,65,,2,10,x,,,,,,155995,18,2
+5/26/2025,01/06/2025,EQU x BRA / BRA x PAR,2,world cup qualifiers,Brazil,Carlo Ancelotti,Marquinhos,14/05/1994,Marquinhos1994,Centre-back,,,PSG,773,180,742,715,,2,10,x,,,,,,155995,9,2
+8/25/2025,01/09/2025,BRA x CHI / BOL x BRA,2,world cup qualifiers,Brazil,Carlo Ancelotti,Marquinhos,14/05/1994,Marquinhos1994,Centre-back,,,PSG,675,119,729,72,,1,5,x,,,,,,155995,8,2
+11/3/2025,01/11/2025,SEN x BRA / TUN x BRA,2,friendly,Brazil,Carlo Ancelotti,Marquinhos,14/05/1994,Marquinhos1994,Centre-back,,,PSG,113,180,71,695,,2,10,x,,,,,,155995,2,2
+10/1/2025,01/10/2025,COR x BRA / JAP x BRA,2,friendly,Brazil,Carlo Ancelotti,Vitinho,23/07/1999,Vitinho1999,Full-back,,,Botafogo,549,70,673,71,,1,5,x,,,,,,914477,7,1
+10/1/2025,01/10/2025,COR x BRA / JAP x BRA,2,friendly,Brazil,Carlo Ancelotti,Wesley,06/09/2003,Wesley2003,Full-back,,,Roma,149,0,68,,,0,0,x,x,,,,,1134200,2,0
+10/1/2025,01/10/2025,COR x BRA / JAP x BRA,2,friendly,Brazil,Carlo Ancelotti,Paulo Henrique,25/07/1996,PauloHenrique1996,Full-back,,,Vasco da Gama,540,110,708,71,,1,5,,,,x,,,1021721,6,2
+10/1/2025,01/10/2025,COR x BRA / JAP x BRA,2,friendly,Brazil,Carlo Ancelotti,André,16/07/2001,André2001,Midfielder,,,Wolverhampton,261,11,715,66,,0,0,x,,,,,,1035996,4,1
+10/1/2025,01/10/2025,COR x BRA / JAP x BRA,2,friendly,Brazil,Carlo Ancelotti,Bruno Guimarães,16/11/1997,BrunoGuimarães1997,Midfielder,,,Newcastle,433,136,702,76,,2,10,x,,,,,,866469,5,2
+10/1/2025,01/10/2025,COR x BRA / JAP x BRA,2,friendly,Brazil,Carlo Ancelotti,Casemiro,23/02/1992,Casemiro1992,Midfielder,,,Manchester United,60,180,645,755,,2,10,x,,,,,,122951,2,2
+10/1/2025,01/10/2025,COR x BRA / JAP x BRA,2,friendly,Brazil,Carlo Ancelotti,João Gomes,12/02/2001,JoãoGomes2001,Midfielder,,,Wolverhampton,253,0,667,,,0,0,x,,,,,,1015267,4,0
+10/1/2025,01/10/2025,COR x BRA / JAP x BRA,2,friendly,Brazil,Carlo Ancelotti,Joelinton,14/08/1996,Joelinton1996,Midfielder,,,Newcastle,365,33,722,69,,0,0,x,,,,,,560128,5,1
+10/1/2025,01/10/2025,COR x BRA / JAP x BRA,2,friendly,Brazil,Carlo Ancelotti,Lucas Paquetá,27/08/1997,LucasPaquetá1997,Midfielder,,,West Ham,247,95,643,70,,1,5,x,,,,,,839981,3,2
+10/1/2025,01/10/2025,COR x BRA / JAP x BRA,2,friendly,Brazil,Carlo Ancelotti,Estêvão,24/04/2007,Estêvão2007,Forward,,,Chelsea,145,85,655,735,,1,5,x,,,,,,1597265,5,2
+10/1/2025,01/10/2025,COR x BRA / JAP x BRA,2,friendly,Brazil,Carlo Ancelotti,Gabriel Martinelli,18/06/2001,GabrielMartinelli2001,Forward,,,Arsenal,215,57,708,68,,1,5,x,,,,,,922573,6,1
+10/1/2025,01/10/2025,COR x BRA / JAP x BRA,2,friendly,Brazil,Carlo Ancelotti,Igor Jesus,25/02/2001,IgorJesus2001,Forward,,,Nottingham Forest,154,10,73,67,,0,0,x,,,,,,981619,4,1
+10/1/2025,01/10/2025,COR x BRA / JAP x BRA,2,friendly,Brazil,Carlo Ancelotti,Luiz Henrique,02/01/2001,LuizHenrique2001,Forward,,,Zenit,244,75,71,67,,1,5,x,,,,,,1035995,4,1
+10/1/2025,01/10/2025,COR x BRA / JAP x BRA,2,friendly,Brazil,Carlo Ancelotti,Matheus Cunha,27/05/1999,MatheusCunha1999,Forward,Midfielder,,Manchester United,116,113,68,715,,1,5,x,,,,,,886363,2,2
+10/1/2025,01/10/2025,COR x BRA / JAP x BRA,2,friendly,Brazil,Carlo Ancelotti,Richarlison,10/05/1997,Richarlison1997,Forward,,,Tottenham,395,26,655,66,,0,0,x,,,,,,840217,6,2
+10/1/2025,01/10/2025,COR x BRA / JAP x BRA,2,friendly,Brazil,Carlo Ancelotti,Rodrygo,09/01/2001,Rodrygo2001,Forward,Midfielder,,Real Madrid,124,123,696,805,,1,5,x,,,,,,910536,5,2
+10/1/2025,01/10/2025,COR x BRA / JAP x BRA,2,friendly,Brazil,Carlo Ancelotti,Vinícius Júnior,12/07/2000,ViníciusJúnior2000,Forward,,,Real Madrid,422,136,692,745,,2,10,x,,,,,,868812,6,2
+11/3/2025,01/11/2025,SEN x BRA / TUN x BRA,2,friendly,Brazil,Carlo Ancelotti,Bento,10/06/1999,Bento1999,Goalkeeper,,,Al-Nassr,180,90,61,67,,1,5,x,,,,,,1016104,2,1
+11/3/2025,01/11/2025,SEN x BRA / TUN x BRA,2,friendly,Brazil,Carlo Ancelotti,Ederson,17/08/1993,Ederson1993,Goalkeeper,,,Fenerbahçe,270,90,74,68,,1,5,x,,,,,,254491,3,1
+11/3/2025,01/11/2025,SEN x BRA / TUN x BRA,2,friendly,Brazil,Carlo Ancelotti,Hugo Souza,31/01/1999,HugoSouza1999,Goalkeeper,,,Corinthians,180,0,71,,,0,0,x,x,,,,,950454,2,0
+11/3/2025,01/11/2025,SEN x BRA / TUN x BRA,2,friendly,Brazil,Carlo Ancelotti,John,13/02/1996,John1996,Goalkeeper,,,Nottingham Forest,0,0,,,,0,0,,,,x,,,840103,0,0
+11/3/2025,01/11/2025,SEN x BRA / TUN x BRA,2,friendly,Brazil,Carlo Ancelotti,Alex Sandro,26/01/1991,AlexSandro1991,Full-back,Centre-back,,Flamengo,325,89,69,70,,1,5,x,,,,,,84854,4,1
+11/3/2025,01/11/2025,SEN x BRA / TUN x BRA,2,friendly,Brazil,Carlo Ancelotti,Danilo,15/07/1991,Danilo1991,Full-back,Centre-back,,Flamengo,168,0,715,,,0,0,x,,,,,,1064039,2,0
+11/3/2025,01/11/2025,SEN x BRA / TUN x BRA,2,friendly,Brazil,Carlo Ancelotti,Caio Henrique,31/07/1997,CaioHenrique1997,Full-back,Midfielder,,Monaco,270,91,737,71,,1,5,x,,,,,,845170,3,2
+3/16/2026,01/03/2026,BRA x FRA / BRA x CRO,2,friendly,Brazil,Carlo Ancelotti,Marquinhos,14/05/1994,Marquinhos1994,Centre-back,,,PSG,1265,90,705,70,4,1,5,x,,,,,,155995,15,1
+11/1/2024,01/11/2024,VEN x BRA / BRA x URU,2,world cup qualifiers,Brazil,Dorival Júnior,Murillo,04/07/2002,Murillo2002,Centre-back,,,Nottingham Forest,180,0,75,,,0,0,x,,,,,,1199282,2,0
+3/6/2025,01/03/2025,BRA x COL / ARG x BRA,2,world cup qualifiers,Brazil,Dorival Júnior,Murillo,04/07/2002,Murillo2002,Centre-back,,,Nottingham Forest,1430,45,724,62,,1,5,x,,,,,,1199282,16,1
+11/3/2025,01/11/2025,SEN x BRA / TUN x BRA,2,friendly,Brazil,Carlo Ancelotti,Luciano Juba,29/08/1999,LucianoJuba1999,Full-back,,,Bahia,199,0,737,,,0,0,x,,,,,,1017264,3,0
+3/11/2024,01/03/2024,ING x BRA / ESP x BRA,2,friendly,Brazil,Dorival Júnior,Murilo,27/03/1997,Murilo1997,Centre-back,,,Palmeiras,1272,0,701,,,0,0,x,,,,,,874729,15,0
+11/3/2025,01/11/2025,SEN x BRA / TUN x BRA,2,friendly,Brazil,Carlo Ancelotti,Paulo Henrique,25/07/1996,PauloHenrique1996,Full-back,,,Vasco,270,0,723,,,0,0,x,,,,,,1021721,3,0
+11/3/2025,01/11/2025,SEN x BRA / TUN x BRA,2,friendly,Brazil,Carlo Ancelotti,Wesley,06/09/2003,Wesley2003,Full-back,,,Roma,443,71,70,66,,1,5,x,,,,,,1134200,5,2
+11/3/2025,01/11/2025,SEN x BRA / TUN x BRA,2,friendly,Brazil,Carlo Ancelotti,Andrey Santos,03/05/2004,AndreySantos2004,Midfielder,,,Chelsea,193,0,705,,,0,0,x,,,,,,1105779,4,0
+11/3/2025,01/11/2025,SEN x BRA / TUN x BRA,2,friendly,Brazil,Carlo Ancelotti,Bruno Guimarães,16/11/1997,BrunoGuimarães1997,Midfielder,,,Newcastle,365,150,70,705,,2,10,x,,,,,,866469,5,2
+11/3/2025,01/11/2025,SEN x BRA / TUN x BRA,2,friendly,Brazil,Carlo Ancelotti,Casemiro,23/02/1992,Casemiro1992,Midfielder,,,Manchester United,218,150,78,76,,2,10,x,,,,,,122951,3,2
+11/3/2025,01/11/2025,SEN x BRA / TUN x BRA,2,friendly,Brazil,Carlo Ancelotti,Fabinho,23/10/1993,Fabinho1993,Midfielder,,,Al-Ittihad,392,30,708,67,,0,0,x,,,,,,243585,5,1
+11/3/2025,01/11/2025,SEN x BRA / TUN x BRA,2,friendly,Brazil,Carlo Ancelotti,Lucas Paquetá,27/08/1997,LucasPaquetá1997,Midfielder,,,West Ham,270,41,74,64,,0,0,x,,,,,,839981,3,2
+11/3/2025,01/11/2025,SEN x BRA / TUN x BRA,2,friendly,Brazil,Carlo Ancelotti,Estêvão,24/04/2007,Estêvão2007,Forward,,,Chelsea,207,173,68,785,,2,10,x,,,,,,1597265,5,2
+11/3/2025,01/11/2025,SEN x BRA / TUN x BRA,2,friendly,Brazil,Carlo Ancelotti,João Pedro,26/09/2001,JoãoPedro2001,Forward,,,Chelsea,265,25,69,67,,0,0,x,,,,,,975079,3,1
+11/3/2025,01/11/2025,SEN x BRA / TUN x BRA,2,friendly,Brazil,Carlo Ancelotti,Luiz Henrique,02/01/2001,LuizHenrique2001,Forward,,,Zenit,260,22,697,65,,0,0,x,,,,,,1035995,3,2
+11/3/2025,01/11/2025,SEN x BRA / TUN x BRA,2,friendly,Brazil,Carlo Ancelotti,Matheus Cunha,27/05/1999,MatheusCunha1999,Forward,Midfielder,,Manchester United,261,110,77,715,,2,10,x,,,,,,886363,3,2
+11/3/2025,01/11/2025,SEN x BRA / TUN x BRA,2,friendly,Brazil,Carlo Ancelotti,Richarlison,10/05/1997,Richarlison1997,Forward,,,Tottenham,236,0,668,,,0,0,x,,,,,,840217,5,0
+11/3/2025,01/11/2025,SEN x BRA / TUN x BRA,2,friendly,Brazil,Carlo Ancelotti,Rodrygo,09/01/2001,Rodrygo2001,Forward,Midfielder,,Real Madrid,115,162,673,765,,2,10,x,,,,,,910536,3,2
+11/3/2025,01/11/2025,SEN x BRA / TUN x BRA,2,friendly,Brazil,Carlo Ancelotti,Vinícius Júnior,12/07/2000,ViníciusJúnior2000,Forward,,,Real Madrid,270,179,697,715,,2,10,x,,,,,,868812,4,2
+11/3/2025,01/11/2025,SEN x BRA / TUN x BRA,2,friendly,Brazil,Carlo Ancelotti,Vitor Roque,28/02/2005,VitorRoque2005,Forward,,,Palmeiras,420,45,738,73,,0,0,x,,,,,,1150391,6,1
+3/16/2026,01/03/2026,BRA x FRA / BRA x CRO,2,friendly,Brazil,Carlo Ancelotti,Alisson,02/10/1992,Alisson1992,Goalkeeper,,,Liverpool,2160,0,687,,1,0,0,x,x,,,x,5,243609,24,0
+3/16/2026,01/03/2026,BRA x FRA / BRA x CRO,2,friendly,Brazil,Carlo Ancelotti,Hugo Souza,31/01/1999,HugoSouza1999,Goalkeeper,,,Corinthians,1980,0,688,,9,0,0,,,,x,,,950454,22,0
+3/16/2026,01/03/2026,BRA x FRA / BRA x CRO,2,friendly,Brazil,Carlo Ancelotti,Bento,10/06/1999,Bento1999,Goalkeeper,,,Al-Nassr,1350,90,711,59,,1,5,x,,,,,,1016104,16,1
+3/16/2026,01/03/2026,BRA x FRA / BRA x CRO,2,friendly,Brazil,Carlo Ancelotti,Ederson,17/08/1993,Ederson1993,Goalkeeper,,,Fenerbahçe,1800,90,695,54,,1,5,x,,,,,,254491,20,1
+3/16/2026,01/03/2026,BRA x FRA / BRA x CRO,2,friendly,Brazil,Carlo Ancelotti,Alex Sandro,26/01/1991,AlexSandro1991,Full-back,Centre-back,,Flamengo,1416,0,689,,9,0,0,x,x,,,,,84854,17,0
+3/16/2026,01/03/2026,BRA x FRA / BRA x CRO,2,friendly,Brazil,Carlo Ancelotti,Kaiki,08/03/2003,Kaiki2003,Full-back,,,Cruzeiro,1768,14,673,62,9,0,0,,,,x,,,1112484,20,1
+5/28/2023,01/06/2023,BRA x GUI / BRA x SEN,2,friendly,Brazil,Ramon Menezes,Nino,10/04/1997,Nino1997,Centre-back,,,Fluminense,1429,0,729,,,0,0,x,,,,,,870788,16,0
+8/18/2023,01/09/2023,BRA x BOL / PER x BRA,2,world cup qualifiers,Brazil,Fernando Diniz,Nino,10/04/1997,Nino1997,Centre-back,,,Fluminense,847,0,686,,,0,0,x,,,,,,870788,10,0
+3/16/2026,01/03/2026,BRA x FRA / BRA x CRO,2,friendly,Brazil,Carlo Ancelotti,Danilo,15/07/1991,Danilo1991,Full-back,Centre-back,,Flamengo,903,95,731,76,9,0,0,x,,,,,,1064039,12,2
+3/16/2026,01/03/2026,BRA x FRA / BRA x CRO,2,friendly,Brazil,Carlo Ancelotti,Douglas Santos,22/03/1994,DouglasSantos1994,Full-back,,,Zenit,270,166,743,66,,2,10,x,,,,,,243583,5,2
+9/23/2023,01/10/2023,BRA x VEN / URU x BRA,2,world cup qualifiers,Brazil,Fernando Diniz,Nino,10/04/1997,Nino1997,Centre-back,,,Fluminense,180,0,705,,,0,0,x,,,,,,870788,2,0
+11/6/2023,01/11/2023,COL x BRA / BRA x ARG,2,world cup qualifiers,Brazil,Fernando Diniz,Nino,10/04/1997,Nino1997,Centre-back,,,Fluminense,120,45,72,68,,0,0,x,,,,,,870788,1,1
+3/3/2023,01/03/2023,MAR x BRA,1,friendly,Brazil,Ramon Menezes,Robert Renan,11/10/2003,RobertRenan2003,Centre-back,,,Zenit,752,0,70,,,0,0,x,,,,,,1191278,9,0
+3/16/2026,01/03/2026,BRA x FRA / BRA x CRO,2,friendly,Brazil,Carlo Ancelotti,Wesley,06/09/2003,Wesley2003,Full-back,,,Roma,1579,71,699,62,2,1,5,x,,,,,,1134200,21,1
+3/16/2026,01/03/2026,BRA x FRA / BRA x CRO,2,friendly,Brazil,Carlo Ancelotti,Andrey Santos,03/05/2004,AndreySantos2004,Midfielder,,,Chelsea,1413,85,697,655,1,1,5,x,,,,,,1105779,22,2
+3/16/2026,01/03/2026,BRA x FRA / BRA x CRO,2,friendly,Brazil,Carlo Ancelotti,Casemiro,23/02/1992,Casemiro1992,Midfielder,,,Manchester United,1456,145,719,70,1,2,10,x,,,,,,122951,19,2
+3/16/2026,01/03/2026,BRA x FRA / BRA x CRO,2,friendly,Brazil,Carlo Ancelotti,Danilo,29/04/2001,Danilo2001,Midfielder,,,Botafogo,903,95,731,76,9,1,5,x,,,,,,1064039,12,2
+3/16/2026,01/03/2026,BRA x FRA / BRA x CRO,2,friendly,Brazil,Carlo Ancelotti,Fabinho,23/10/1993,Fabinho1993,Midfielder,,,Al-Ittihad,1924,29,715,70,,0,0,x,,,,,,243585,22,1
+3/16/2026,01/03/2026,BRA x FRA / BRA x CRO,2,friendly,Brazil,Carlo Ancelotti,Gabriel Sara,26/06/1999,GabrielSara1999,Midfielder,,,Galatasaray,1576,15,726,70,,0,0,x,,,,x,20,913593,22,1
+3/16/2026,01/03/2026,BRA x FRA / BRA x CRO,2,friendly,Brazil,Carlo Ancelotti,Endrick,21/07/2006,Endrick2006,Forward,,,Lyon,1043,14,721,78,4,0,0,x,,,,,,1174937,14,1
+3/16/2026,01/03/2026,BRA x FRA / BRA x CRO,2,friendly,Brazil,Carlo Ancelotti,Gabriel Martinelli,18/06/2001,GabrielMartinelli2001,Forward,,,Arsenal,1360,85,692,71,1,1,5,x,,,,,,922573,28,2
+3/16/2026,01/03/2026,BRA x FRA / BRA x CRO,2,friendly,Brazil,Carlo Ancelotti,Igor Thiago,26/06/2001,IgorThiago2001,Forward,,,Brentford,1760,42,69,67,1,0,0,x,,,,,,1016907,20,2
+3/16/2026,01/03/2026,BRA x FRA / BRA x CRO,2,friendly,Brazil,Carlo Ancelotti,João Pedro,26/09/2001,JoãoPedro2001,Forward,,,Chelsea,1845,95,711,635,1,1,5,x,,,,,,975079,27,2
+3/16/2026,01/03/2026,BRA x FRA / BRA x CRO,2,friendly,Brazil,Carlo Ancelotti,Luiz Henrique,02/01/2001,LuizHenrique2001,Forward,,,Zenit,544,121,70,745,,1,5,x,,,,,,1035995,11,2
+3/16/2026,01/03/2026,BRA x FRA / BRA x CRO,2,friendly,Brazil,Carlo Ancelotti,Matheus Cunha,27/05/1999,MatheusCunha1999,Forward,Midfielder,,Manchester United,1398,147,706,705,1,2,10,x,,,,,,886363,18,2
+3/16/2026,01/03/2026,BRA x FRA / BRA x CRO,2,friendly,Brazil,Carlo Ancelotti,Raphinha,14/12/1996,Raphinha1996,Forward,,,Barcelona,1450,45,752,62,3,1,5,x,,,,,,831005,22,1
+3/16/2026,01/03/2026,BRA x FRA / BRA x CRO,2,friendly,Brazil,Carlo Ancelotti,Rayan,03/08/2006,Rayan2006,Forward,,,Bournemouth,1343,14,734,67,1,0,0,x,,,,,,1464966,16,1
+3/16/2026,01/03/2026,BRA x FRA / BRA x CRO,2,friendly,Brazil,Carlo Ancelotti,Vinícius Júnior,12/07/2000,ViníciusJúnior2000,Forward,,,Real Madrid,2110,157,738,69,3,2,10,x,,,,,,868812,25,2
